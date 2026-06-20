@@ -2,25 +2,405 @@
   "configs": {
     "all_heads_progressive": {
       "metrics": {
+        "HWW_WpHadWmHad/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpHadWmHad/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpHadWmHad/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpHadWmHad/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpHadWmLep/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpHadWmLep/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpHadWmLep/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.4708404541015625
+        },
+        "HWW_WpHadWmLep/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.0907515287399292
+        },
+        "HWW_WpLepWmHad/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpLepWmHad/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpLepWmHad/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpLepWmHad/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpLepWmLep/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.8446903228759766
+        },
+        "HWW_WpLepWmLep/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.107760429382324
+        },
+        "HWW_WpLepWmLep/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpLepWmLep/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TT1L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TT1L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TT1L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TT1L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TT2L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TT2L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TT2L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TT2L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TTHadronics/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TTHadronics/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TTHadronics/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TTHadronics/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WJetsToLNu/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WJetsToLNu/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WJetsToLNu/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.29561007022857666
+        },
+        "WJetsToLNu/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.0895376205444336
+        },
+        "WJetsToQQ/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WJetsToQQ/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.7911065816879272
+        },
+        "WJetsToQQ/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WJetsToQQ/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WW_1L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.1431232690811157
+        },
+        "WW_1L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.9494877457618713
+        },
+        "WW_1L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WW_1L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WW_2L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.4711490869522095
+        },
+        "WW_2L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.6501017808914185
+        },
+        "WW_2L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.2047197818756104
+        },
+        "WW_2L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.0824792385101318
+        },
+        "WZ_1L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.1524341106414795
+        },
+        "WZ_1L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.7167882323265076
+        },
+        "WZ_1L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WZ_1L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WZ_2L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WZ_2L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WZ_2L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WZ_2L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WZ_3L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WZ_3L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WZ_3L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.0638166666030884
+        },
+        "WZ_3L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.158441185951233
+        },
+        "ZJetsToLL/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZJetsToLL/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZJetsToLL/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZJetsToLL/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZJetsToQQ/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.7467684745788574
+        },
+        "ZJetsToQQ/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.2455648183822632
+        },
+        "ZJetsToQQ/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZJetsToQQ/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.138462781906128
+        },
+        "ZZ_2L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.5276081562042236
+        },
+        "ZZ_2L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.0814207792282104
+        },
+        "ZZ_2L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZZ_2L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZZ_4L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZZ_4L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZZ_4L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZZ_4L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
         "train/assignment": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.5859490036964417
+          "value": 0.5851320624351501
+        },
+        "train/assignment_DiObjectDecay": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.869509220123291
+        },
+        "train/assignment_HadronicTop": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.8052296042442322
+        },
+        "train/assignment_LeptonicTop": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.4153487980365753
+        },
+        "train/assignment_SingleVisibleDecay": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.4969902038574219
         },
         "train/classification": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 2.1772754192352295
+          "value": 2.078545331954956
         },
         "train/classification-noised": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.6697227954864502
+          "value": 1.839026689529419
         },
         "train/detection": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.3709776699542999
+          "value": 0.3701133131980896
         },
         "train/generation-recon": {
           "atol": 1.0,
@@ -30,37 +410,247 @@
         "train/generation-truth": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.8165773749351501
+          "value": 1.0798635482788086
         },
         "train/loss": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 7.807326316833496
+          "value": 8.224209785461426
         },
         "train/segmentation": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 5.321025848388672
+          "value": 5.305319786071777
+        },
+        "train/segmentation-cls": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.1785120964050293
+        },
+        "train/segmentation-cls-aux": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.355710983276367
+        },
+        "train/segmentation-dice": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.30173105001449585
+        },
+        "train/segmentation-dice-aux": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.2332659661769867
+        },
+        "train/segmentation-mask": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.12789569795131683
+        },
+        "train/segmentation-mask-aux": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.10820404440164566
+        },
+        "ttW_FullHadronics/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_FullHadronics/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_FullHadronics/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_FullHadronics/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_Leptonic/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_Leptonic/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_Leptonic/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_Leptonic/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_tHtLWH/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_tHtLWH/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_tHtLWH/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 4.549919128417969
+        },
+        "ttW_tHtLWH/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.1327756643295288
+        },
+        "ttW_tHtLWL/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.4997174739837646
+        },
+        "ttW_tHtLWL/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.0307471752166748
+        },
+        "ttW_tHtLWL/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_tHtLWL/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_FullHadronics/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 3.8279433250427246
+        },
+        "ttZ_FullHadronics/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.0499683618545532
+        },
+        "ttZ_FullHadronics/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_FullHadronics/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_Leptonic/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_Leptonic/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_Leptonic/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 4.861424446105957
+        },
+        "ttZ_Leptonic/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.1394572257995605
+        },
+        "ttZ_tHtLZH/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_tHtLZH/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_tHtLZH/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 4.0204572677612305
+        },
+        "ttZ_tHtLZH/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.1319067478179932
+        },
+        "ttZ_tHtLZL/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_tHtLZL/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_tHtLZL/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_tHtLZL/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
         },
         "val/assignment": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.7101474404335022
+          "value": 0.7102611064910889
+        },
+        "val/assignment_DiObjectDecay": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.8384668231010437
+        },
+        "val/assignment_HadronicTop": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.384049892425537
+        },
+        "val/assignment_LeptonicTop": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.2747128009796143
+        },
+        "val/assignment_SingleVisibleDecay": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.064476490020752
         },
         "val/classification": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 2.166599750518799
+          "value": 2.176370143890381
         },
         "val/classification-noised": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 2.290753126144409
+          "value": 2.1704351902008057
         },
         "val/detection": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.34723860025405884
+          "value": 0.34476199746131897
         },
         "val/generation-recon": {
           "atol": 1.0,
@@ -70,22 +660,128 @@
         "val/generation-truth": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 2.0228872299194336
+          "value": 0.8149474263191223
         },
         "val/loss": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 9.706857681274414
+          "value": 8.611467361450195
         },
         "val/segmentation": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 5.39321756362915
+          "value": 5.626084327697754
+        },
+        "val/segmentation-cls": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.1221203804016113
+        },
+        "val/segmentation-cls-aux": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.339700222015381
+        },
+        "val/segmentation-dice": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.4628511071205139
+        },
+        "val/segmentation-dice-aux": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.43171226978302
+        },
+        "val/segmentation-mask": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.13717254996299744
+        },
+        "val/segmentation-mask-aux": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.13252757489681244
         }
       },
       "parameter_count": 42574951,
       "required_metric_keys": [
+        "HWW_WpHadWmHad/train/assignment",
+        "HWW_WpHadWmHad/train/detection",
+        "HWW_WpHadWmHad/val/assignment",
+        "HWW_WpHadWmHad/val/detection",
+        "HWW_WpHadWmLep/train/assignment",
+        "HWW_WpHadWmLep/train/detection",
+        "HWW_WpHadWmLep/val/assignment",
+        "HWW_WpHadWmLep/val/detection",
+        "HWW_WpLepWmHad/train/assignment",
+        "HWW_WpLepWmHad/train/detection",
+        "HWW_WpLepWmHad/val/assignment",
+        "HWW_WpLepWmHad/val/detection",
+        "HWW_WpLepWmLep/train/assignment",
+        "HWW_WpLepWmLep/train/detection",
+        "HWW_WpLepWmLep/val/assignment",
+        "HWW_WpLepWmLep/val/detection",
+        "TT1L/train/assignment",
+        "TT1L/train/detection",
+        "TT1L/val/assignment",
+        "TT1L/val/detection",
+        "TT2L/train/assignment",
+        "TT2L/train/detection",
+        "TT2L/val/assignment",
+        "TT2L/val/detection",
+        "TTHadronics/train/assignment",
+        "TTHadronics/train/detection",
+        "TTHadronics/val/assignment",
+        "TTHadronics/val/detection",
+        "WJetsToLNu/train/assignment",
+        "WJetsToLNu/train/detection",
+        "WJetsToLNu/val/assignment",
+        "WJetsToLNu/val/detection",
+        "WJetsToQQ/train/assignment",
+        "WJetsToQQ/train/detection",
+        "WJetsToQQ/val/assignment",
+        "WJetsToQQ/val/detection",
+        "WW_1L/train/assignment",
+        "WW_1L/train/detection",
+        "WW_1L/val/assignment",
+        "WW_1L/val/detection",
+        "WW_2L/train/assignment",
+        "WW_2L/train/detection",
+        "WW_2L/val/assignment",
+        "WW_2L/val/detection",
+        "WZ_1L/train/assignment",
+        "WZ_1L/train/detection",
+        "WZ_1L/val/assignment",
+        "WZ_1L/val/detection",
+        "WZ_2L/train/assignment",
+        "WZ_2L/train/detection",
+        "WZ_2L/val/assignment",
+        "WZ_2L/val/detection",
+        "WZ_3L/train/assignment",
+        "WZ_3L/train/detection",
+        "WZ_3L/val/assignment",
+        "WZ_3L/val/detection",
+        "ZJetsToLL/train/assignment",
+        "ZJetsToLL/train/detection",
+        "ZJetsToLL/val/assignment",
+        "ZJetsToLL/val/detection",
+        "ZJetsToQQ/train/assignment",
+        "ZJetsToQQ/train/detection",
+        "ZJetsToQQ/val/assignment",
+        "ZJetsToQQ/val/detection",
+        "ZZ_2L/train/assignment",
+        "ZZ_2L/train/detection",
+        "ZZ_2L/val/assignment",
+        "ZZ_2L/val/detection",
+        "ZZ_4L/train/assignment",
+        "ZZ_4L/train/detection",
+        "ZZ_4L/val/assignment",
+        "ZZ_4L/val/detection",
         "train/assignment",
+        "train/assignment_DiObjectDecay",
+        "train/assignment_HadronicTop",
+        "train/assignment_LeptonicTop",
+        "train/assignment_SingleVisibleDecay",
         "train/classification",
         "train/classification-noised",
         "train/detection",
@@ -93,14 +789,62 @@
         "train/generation-truth",
         "train/loss",
         "train/segmentation",
+        "train/segmentation-cls",
+        "train/segmentation-cls-aux",
+        "train/segmentation-dice",
+        "train/segmentation-dice-aux",
+        "train/segmentation-mask",
+        "train/segmentation-mask-aux",
+        "ttW_FullHadronics/train/assignment",
+        "ttW_FullHadronics/train/detection",
+        "ttW_FullHadronics/val/assignment",
+        "ttW_FullHadronics/val/detection",
+        "ttW_Leptonic/train/assignment",
+        "ttW_Leptonic/train/detection",
+        "ttW_Leptonic/val/assignment",
+        "ttW_Leptonic/val/detection",
+        "ttW_tHtLWH/train/assignment",
+        "ttW_tHtLWH/train/detection",
+        "ttW_tHtLWH/val/assignment",
+        "ttW_tHtLWH/val/detection",
+        "ttW_tHtLWL/train/assignment",
+        "ttW_tHtLWL/train/detection",
+        "ttW_tHtLWL/val/assignment",
+        "ttW_tHtLWL/val/detection",
+        "ttZ_FullHadronics/train/assignment",
+        "ttZ_FullHadronics/train/detection",
+        "ttZ_FullHadronics/val/assignment",
+        "ttZ_FullHadronics/val/detection",
+        "ttZ_Leptonic/train/assignment",
+        "ttZ_Leptonic/train/detection",
+        "ttZ_Leptonic/val/assignment",
+        "ttZ_Leptonic/val/detection",
+        "ttZ_tHtLZH/train/assignment",
+        "ttZ_tHtLZH/train/detection",
+        "ttZ_tHtLZH/val/assignment",
+        "ttZ_tHtLZH/val/detection",
+        "ttZ_tHtLZL/train/assignment",
+        "ttZ_tHtLZL/train/detection",
+        "ttZ_tHtLZL/val/assignment",
+        "ttZ_tHtLZL/val/detection",
         "val/assignment",
+        "val/assignment_DiObjectDecay",
+        "val/assignment_HadronicTop",
+        "val/assignment_LeptonicTop",
+        "val/assignment_SingleVisibleDecay",
         "val/classification",
         "val/classification-noised",
         "val/detection",
         "val/generation-recon",
         "val/generation-truth",
         "val/loss",
-        "val/segmentation"
+        "val/segmentation",
+        "val/segmentation-cls",
+        "val/segmentation-cls-aux",
+        "val/segmentation-dice",
+        "val/segmentation-dice-aux",
+        "val/segmentation-mask",
+        "val/segmentation-mask-aux"
       ],
       "state_dict_keys": [
         "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.0.combined_embedding.final_embedding.gru.gate_bias",
@@ -1324,43 +2068,715 @@
     },
     "assignment": {
       "metrics": {
+        "HWW_WpHadWmHad/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpHadWmHad/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpHadWmHad/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpHadWmHad/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpHadWmLep/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpHadWmLep/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpHadWmLep/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.3918395042419434
+        },
+        "HWW_WpHadWmLep/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.108445644378662
+        },
+        "HWW_WpLepWmHad/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpLepWmHad/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpLepWmHad/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpLepWmHad/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpLepWmLep/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.8230916261672974
+        },
+        "HWW_WpLepWmLep/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.4287657737731934
+        },
+        "HWW_WpLepWmLep/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpLepWmLep/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TT1L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TT1L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TT1L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TT1L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TT2L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TT2L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TT2L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TT2L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TTHadronics/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TTHadronics/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TTHadronics/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TTHadronics/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WJetsToLNu/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WJetsToLNu/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WJetsToLNu/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.2456928938627243
+        },
+        "WJetsToLNu/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.0915558338165283
+        },
+        "WJetsToQQ/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WJetsToQQ/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.1745381355285645
+        },
+        "WJetsToQQ/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WJetsToQQ/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WW_1L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.1529697179794312
+        },
+        "WW_1L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.8853736519813538
+        },
+        "WW_1L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WW_1L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WW_2L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.382692813873291
+        },
+        "WW_2L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.2721675634384155
+        },
+        "WW_2L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.149385690689087
+        },
+        "WW_2L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.098796010017395
+        },
+        "WZ_1L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.1509945392608643
+        },
+        "WZ_1L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.9476522207260132
+        },
+        "WZ_1L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WZ_1L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WZ_2L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WZ_2L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WZ_2L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WZ_2L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WZ_3L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WZ_3L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WZ_3L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.0636200904846191
+        },
+        "WZ_3L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.1354968547821045
+        },
+        "ZJetsToLL/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZJetsToLL/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZJetsToLL/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZJetsToLL/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZJetsToQQ/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.7466340661048889
+        },
+        "ZJetsToQQ/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.8304750919342041
+        },
+        "ZJetsToQQ/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZJetsToQQ/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.0812523365020752
+        },
+        "ZZ_2L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.5275187492370605
+        },
+        "ZZ_2L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.2117570638656616
+        },
+        "ZZ_2L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZZ_2L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZZ_4L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZZ_4L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZZ_4L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZZ_4L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
         "train/assignment": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.5869929194450378
+          "value": 0.5811701416969299
+        },
+        "train/assignment_DiObjectDecay": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.8973730206489563
+        },
+        "train/assignment_HadronicTop": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.8551450371742249
+        },
+        "train/assignment_LeptonicTop": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.4173716902732849
+        },
+        "train/assignment_SingleVisibleDecay": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.4850432872772217
         },
         "train/detection": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.3722575306892395
+          "value": 0.3943454921245575
         },
         "train/loss": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.9592504501342773
+          "value": 0.975515604019165
+        },
+        "ttW_FullHadronics/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_FullHadronics/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_FullHadronics/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_FullHadronics/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_Leptonic/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_Leptonic/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_Leptonic/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_Leptonic/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_tHtLWH/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_tHtLWH/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_tHtLWH/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 4.550006866455078
+        },
+        "ttW_tHtLWH/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.1181553602218628
+        },
+        "ttW_tHtLWL/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.4983720779418945
+        },
+        "ttW_tHtLWL/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.0492870807647705
+        },
+        "ttW_tHtLWL/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_tHtLWL/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_FullHadronics/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 3.8281500339508057
+        },
+        "ttZ_FullHadronics/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.4529664516448975
+        },
+        "ttZ_FullHadronics/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_FullHadronics/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_Leptonic/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_Leptonic/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_Leptonic/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 4.861464500427246
+        },
+        "ttZ_Leptonic/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.1159216165542603
+        },
+        "ttZ_tHtLZH/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_tHtLZH/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_tHtLZH/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 4.02023983001709
+        },
+        "ttZ_tHtLZH/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.1181352138519287
+        },
+        "ttZ_tHtLZL/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_tHtLZL/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_tHtLZL/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_tHtLZL/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
         },
         "val/assignment": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.7041569352149963
+          "value": 0.7031634449958801
+        },
+        "val/assignment_DiObjectDecay": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.8283125758171082
+        },
+        "val/assignment_HadronicTop": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.379473328590393
+        },
+        "val/assignment_LeptonicTop": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.2713574171066284
+        },
+        "val/assignment_SingleVisibleDecay": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.0435348749160767
         },
         "val/detection": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.3426429033279419
+          "value": 0.3410676121711731
         },
         "val/loss": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.046799898147583
+          "value": 1.0442310571670532
         }
       },
       "parameter_count": 38009513,
       "required_metric_keys": [
+        "HWW_WpHadWmHad/train/assignment",
+        "HWW_WpHadWmHad/train/detection",
+        "HWW_WpHadWmHad/val/assignment",
+        "HWW_WpHadWmHad/val/detection",
+        "HWW_WpHadWmLep/train/assignment",
+        "HWW_WpHadWmLep/train/detection",
+        "HWW_WpHadWmLep/val/assignment",
+        "HWW_WpHadWmLep/val/detection",
+        "HWW_WpLepWmHad/train/assignment",
+        "HWW_WpLepWmHad/train/detection",
+        "HWW_WpLepWmHad/val/assignment",
+        "HWW_WpLepWmHad/val/detection",
+        "HWW_WpLepWmLep/train/assignment",
+        "HWW_WpLepWmLep/train/detection",
+        "HWW_WpLepWmLep/val/assignment",
+        "HWW_WpLepWmLep/val/detection",
+        "TT1L/train/assignment",
+        "TT1L/train/detection",
+        "TT1L/val/assignment",
+        "TT1L/val/detection",
+        "TT2L/train/assignment",
+        "TT2L/train/detection",
+        "TT2L/val/assignment",
+        "TT2L/val/detection",
+        "TTHadronics/train/assignment",
+        "TTHadronics/train/detection",
+        "TTHadronics/val/assignment",
+        "TTHadronics/val/detection",
+        "WJetsToLNu/train/assignment",
+        "WJetsToLNu/train/detection",
+        "WJetsToLNu/val/assignment",
+        "WJetsToLNu/val/detection",
+        "WJetsToQQ/train/assignment",
+        "WJetsToQQ/train/detection",
+        "WJetsToQQ/val/assignment",
+        "WJetsToQQ/val/detection",
+        "WW_1L/train/assignment",
+        "WW_1L/train/detection",
+        "WW_1L/val/assignment",
+        "WW_1L/val/detection",
+        "WW_2L/train/assignment",
+        "WW_2L/train/detection",
+        "WW_2L/val/assignment",
+        "WW_2L/val/detection",
+        "WZ_1L/train/assignment",
+        "WZ_1L/train/detection",
+        "WZ_1L/val/assignment",
+        "WZ_1L/val/detection",
+        "WZ_2L/train/assignment",
+        "WZ_2L/train/detection",
+        "WZ_2L/val/assignment",
+        "WZ_2L/val/detection",
+        "WZ_3L/train/assignment",
+        "WZ_3L/train/detection",
+        "WZ_3L/val/assignment",
+        "WZ_3L/val/detection",
+        "ZJetsToLL/train/assignment",
+        "ZJetsToLL/train/detection",
+        "ZJetsToLL/val/assignment",
+        "ZJetsToLL/val/detection",
+        "ZJetsToQQ/train/assignment",
+        "ZJetsToQQ/train/detection",
+        "ZJetsToQQ/val/assignment",
+        "ZJetsToQQ/val/detection",
+        "ZZ_2L/train/assignment",
+        "ZZ_2L/train/detection",
+        "ZZ_2L/val/assignment",
+        "ZZ_2L/val/detection",
+        "ZZ_4L/train/assignment",
+        "ZZ_4L/train/detection",
+        "ZZ_4L/val/assignment",
+        "ZZ_4L/val/detection",
         "train/assignment",
+        "train/assignment_DiObjectDecay",
+        "train/assignment_HadronicTop",
+        "train/assignment_LeptonicTop",
+        "train/assignment_SingleVisibleDecay",
         "train/detection",
         "train/loss",
+        "ttW_FullHadronics/train/assignment",
+        "ttW_FullHadronics/train/detection",
+        "ttW_FullHadronics/val/assignment",
+        "ttW_FullHadronics/val/detection",
+        "ttW_Leptonic/train/assignment",
+        "ttW_Leptonic/train/detection",
+        "ttW_Leptonic/val/assignment",
+        "ttW_Leptonic/val/detection",
+        "ttW_tHtLWH/train/assignment",
+        "ttW_tHtLWH/train/detection",
+        "ttW_tHtLWH/val/assignment",
+        "ttW_tHtLWH/val/detection",
+        "ttW_tHtLWL/train/assignment",
+        "ttW_tHtLWL/train/detection",
+        "ttW_tHtLWL/val/assignment",
+        "ttW_tHtLWL/val/detection",
+        "ttZ_FullHadronics/train/assignment",
+        "ttZ_FullHadronics/train/detection",
+        "ttZ_FullHadronics/val/assignment",
+        "ttZ_FullHadronics/val/detection",
+        "ttZ_Leptonic/train/assignment",
+        "ttZ_Leptonic/train/detection",
+        "ttZ_Leptonic/val/assignment",
+        "ttZ_Leptonic/val/detection",
+        "ttZ_tHtLZH/train/assignment",
+        "ttZ_tHtLZH/train/detection",
+        "ttZ_tHtLZH/val/assignment",
+        "ttZ_tHtLZH/val/detection",
+        "ttZ_tHtLZL/train/assignment",
+        "ttZ_tHtLZL/train/detection",
+        "ttZ_tHtLZL/val/assignment",
+        "ttZ_tHtLZL/val/detection",
         "val/assignment",
+        "val/assignment_DiObjectDecay",
+        "val/assignment_HadronicTop",
+        "val/assignment_LeptonicTop",
+        "val/assignment_SingleVisibleDecay",
         "val/detection",
         "val/loss"
       ],
@@ -2460,22 +3876,22 @@
         "train/classification": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 2.6264569759368896
+          "value": 2.3194806575775146
         },
         "train/loss": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 2.6264569759368896
+          "value": 2.3194806575775146
         },
         "val/classification": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 2.5675714015960693
+          "value": 2.5810539722442627
         },
         "val/loss": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 2.5675714015960693
+          "value": 2.5810539722442627
         }
       },
       "parameter_count": 19867871,
@@ -3039,22 +4455,22 @@
         "train/generation-recon": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.991959810256958
+          "value": 1.135216236114502
         },
         "train/loss": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.991959810256958
+          "value": 1.135216236114502
         },
         "val/generation-recon": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.1126526594161987
+          "value": 1.257839322090149
         },
         "val/loss": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.1126526594161987
+          "value": 1.257839322090149
         }
       },
       "parameter_count": 19933148,
@@ -3609,22 +5025,22 @@
         "train/generation-truth": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.9314263463020325
+          "value": 1.4991410970687866
         },
         "train/loss": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.9314263463020325
+          "value": 1.4991410970687866
         },
         "val/generation-truth": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.3327592611312866
+          "value": 1.046221375465393
         },
         "val/loss": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.3327592611312866
+          "value": 1.046221375465393
         }
       },
       "parameter_count": 19941497,
@@ -4189,30 +5605,102 @@
         "train/loss": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 5.404569625854492
+          "value": 5.449005126953125
         },
         "train/segmentation": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 5.404569625854492
+          "value": 5.449005126953125
+        },
+        "train/segmentation-cls": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.3444020748138428
+        },
+        "train/segmentation-cls-aux": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.160539388656616
+        },
+        "train/segmentation-dice": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.36423465609550476
+        },
+        "train/segmentation-dice-aux": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.38592529296875
+        },
+        "train/segmentation-mask": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.10128229856491089
+        },
+        "train/segmentation-mask-aux": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.09262148290872574
         },
         "val/loss": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 6.1099958419799805
+          "value": 6.124773979187012
         },
         "val/segmentation": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 6.1099958419799805
+          "value": 6.124773979187012
+        },
+        "val/segmentation-cls": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.3911149501800537
+        },
+        "val/segmentation-cls-aux": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.411482095718384
+        },
+        "val/segmentation-dice": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.4774133861064911
+        },
+        "val/segmentation-dice-aux": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.4406299591064453
+        },
+        "val/segmentation-mask": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.2353695183992386
+        },
+        "val/segmentation-mask-aux": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.16876408457756042
         }
       },
       "parameter_count": 19540958,
       "required_metric_keys": [
         "train/loss",
         "train/segmentation",
+        "train/segmentation-cls",
+        "train/segmentation-cls-aux",
+        "train/segmentation-dice",
+        "train/segmentation-dice-aux",
+        "train/segmentation-mask",
+        "train/segmentation-mask-aux",
         "val/loss",
-        "val/segmentation"
+        "val/segmentation",
+        "val/segmentation-cls",
+        "val/segmentation-cls-aux",
+        "val/segmentation-dice",
+        "val/segmentation-dice-aux",
+        "val/segmentation-mask",
+        "val/segmentation-mask-aux"
       ],
       "state_dict_keys": [
         "GlobalEmbedding.embedding_stack.embedding_layers.0.gru.gate_bias",
@@ -4752,6 +6240,13 @@
         "sequential_normalizer.std"
       ]
     }
+  },
+  "provenance": {
+    "github_actions_run_id": 27880412736,
+    "head_sha": "e90f6366e8b72b796436aace35d2b070e874ae53",
+    "repository": "UW-EPE-ML/EveNet-Align",
+    "runner": "ubuntu-24.04",
+    "source_data_version": "v0.2"
   },
   "schema_version": 1
 }
