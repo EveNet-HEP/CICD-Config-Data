@@ -20,7 +20,7 @@ options:
   Training:
     total_epochs: 1
     epochs: 1
-    model_checkpoint_save_path: ${EVENET_CI_RUN_DIR}/checkpoints
+    model_checkpoint_save_path: null
     model_checkpoint_load_path: null
     pretrain_model_load_path: null
     diffusion_every_n_epochs: 99
@@ -58,7 +58,6 @@ options:
       replace_model_after_load: false
       replace_model_at_end: false
     seed: 42
-    model_checkpoint_save_top_k: 1
     log_gradient_step: 9
     ProgressiveTraining:
       stages:
