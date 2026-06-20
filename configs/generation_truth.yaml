@@ -1,0 +1,116 @@
+platform:
+  data_parquet_dir: ${EVENET_CI_DATA_DIR}
+  number_of_workers: 1
+  resources_per_worker:
+    CPU: 1
+    GPU: 0
+  batch_size: 16
+  prefetch_batches: 1
+  use_gpu: false
+logger:
+  wandb:
+    enabled: false
+    simplified: true
+  local:
+    save_dir: ${EVENET_CI_RUN_DIR}/logs
+    name: ci
+    version: run
+options:
+  default: ${EVENET_REPO_DIR}/share/options/options.yaml
+  Training:
+    total_epochs: 1
+    epochs: 1
+    model_checkpoint_save_path: ${EVENET_CI_RUN_DIR}/checkpoints
+    model_checkpoint_load_path: null
+    pretrain_model_load_path: null
+    diffusion_every_n_epochs: 99
+    diffusion_every_n_steps: 1
+    eval_metrics_every_n_epochs: 1
+    Components:
+      Classification:
+        include: false
+        include_cross_term: false
+      Assignment:
+        include: false
+      Segmentation:
+        include: false
+        use_full_mask: true
+      GlobalGeneration:
+        include: false
+        diffusion_steps: 2
+      ReconGeneration:
+        include: false
+        diffusion_steps: 2
+      TruthGeneration:
+        include: true
+        diffusion_steps: 2
+    EarlyStopping:
+      patience: 100
+      min_delta: 0.0
+      monitor: val/loss
+      mode: min
+      verbose: true
+    EMA:
+      enable: true
+      decay: 0.999
+      start_epoch: 0
+      update_every_n_steps: 1
+      replace_model_after_load: false
+      replace_model_at_end: false
+    seed: 42
+    model_checkpoint_save_top_k: 1
+    log_gradient_step: 9
+    ProgressiveTraining:
+      stages:
+      - name: ci_generation_truth
+        epoch_ratio: 1.0
+        transition_ratio: 0.0
+        loss_weights:
+          classification:
+          - 0.0
+          - 0.0
+          classification-noised:
+          - 0.0
+          - 0.0
+          assignment:
+          - 0.0
+          - 0.0
+          segmentation:
+          - 0.0
+          - 0.0
+          generation-truth:
+          - 1.0
+          - 1.0
+          generation-recon:
+          - 0.0
+          - 0.0
+        train_parameters:
+          noise_prob:
+          - 1.0
+          - 1.0
+          reco_attn_mask:
+          - 0.0
+          - 0.0
+          ema_decay:
+          - 0.999
+          - 0.999
+  Dataset:
+    dataset_limit: 1.0
+    normalization_file: ${EVENET_CI_DATA_DIR}/normalization.pt
+    dataset_limit_apply_to_val_set: true
+    val_split:
+    - 0.7
+    - 1.0
+network:
+  default: ${EVENET_REPO_DIR}/share/network/network-20M.yaml
+  Body:
+    PET:
+      feature_drop: 0.0
+  ReconGeneration:
+    feature_drop: 0.0
+  TruthGeneration:
+    feature_drop: 0.0
+event_info:
+  default: ${EVENET_REPO_DIR}/share/event_info/multi_process.yaml
+resonance:
+  default: ${EVENET_REPO_DIR}/share/resonance/standard_model.yaml
