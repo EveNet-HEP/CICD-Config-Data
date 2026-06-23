@@ -35,12 +35,12 @@
         "HWW_WpHadWmLep/val/assignment": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 2.4708404541015625
+          "value": 2.3421356678009033
         },
         "HWW_WpHadWmLep/val/detection": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.0907515287399292
+          "value": 0.8247012495994568
         },
         "HWW_WpLepWmHad/train/assignment": {
           "atol": 1.0,
@@ -65,12 +65,12 @@
         "HWW_WpLepWmLep/train/assignment": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.8446903228759766
+          "value": 1.5637540817260742
         },
         "HWW_WpLepWmLep/train/detection": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 2.107760429382324
+          "value": 0.9937084317207336
         },
         "HWW_WpLepWmLep/val/assignment": {
           "atol": 1.0,
@@ -155,12 +155,12 @@
         "WJetsToLNu/val/assignment": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.29561007022857666
+          "value": 0.1630995124578476
         },
         "WJetsToLNu/val/detection": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.0895376205444336
+          "value": 1.1211609840393066
         },
         "WJetsToQQ/train/assignment": {
           "atol": 1.0,
@@ -170,7 +170,7 @@
         "WJetsToQQ/train/detection": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.7911065816879272
+          "value": 0.7156614065170288
         },
         "WJetsToQQ/val/assignment": {
           "atol": 1.0,
@@ -185,12 +185,12 @@
         "WW_1L/train/assignment": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.1431232690811157
+          "value": 0.9664183259010315
         },
         "WW_1L/train/detection": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.9494877457618713
+          "value": 0.8252896666526794
         },
         "WW_1L/val/assignment": {
           "atol": 1.0,
@@ -205,32 +205,32 @@
         "WW_2L/train/assignment": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.4711490869522095
+          "value": 1.2997472286224365
         },
         "WW_2L/train/detection": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.6501017808914185
+          "value": 1.5413302183151245
         },
         "WW_2L/val/assignment": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.2047197818756104
+          "value": 0.9997614622116089
         },
         "WW_2L/val/detection": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.0824792385101318
+          "value": 1.2154083251953125
         },
         "WZ_1L/train/assignment": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.1524341106414795
+          "value": 0.897391140460968
         },
         "WZ_1L/train/detection": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.7167882323265076
+          "value": 1.6861519813537598
         },
         "WZ_1L/val/assignment": {
           "atol": 1.0,
@@ -275,12 +275,12 @@
         "WZ_3L/val/assignment": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.0638166666030884
+          "value": 1.0160377025604248
         },
         "WZ_3L/val/detection": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.158441185951233
+          "value": 1.1536831855773926
         },
         "ZJetsToLL/train/assignment": {
           "atol": 1.0,
@@ -305,12 +305,12 @@
         "ZJetsToQQ/train/assignment": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.7467684745788574
+          "value": 0.7467523813247681
         },
         "ZJetsToQQ/train/detection": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.2455648183822632
+          "value": 0.9846107363700867
         },
         "ZJetsToQQ/val/assignment": {
           "atol": 1.0,
@@ -320,17 +320,17 @@
         "ZJetsToQQ/val/detection": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.138462781906128
+          "value": 1.2147127389907837
         },
         "ZZ_2L/train/assignment": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 2.5276081562042236
+          "value": 2.5271413326263428
         },
         "ZZ_2L/train/detection": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.0814207792282104
+          "value": 1.4225481748580933
         },
         "ZZ_2L/val/assignment": {
           "atol": 1.0,
@@ -365,42 +365,42 @@
         "train/assignment": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.5851320624351501
+          "value": 0.5479259490966797
         },
         "train/assignment_DiObjectDecay": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.869509220123291
+          "value": 0.8922409415245056
         },
         "train/assignment_HadronicTop": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.8052296042442322
+          "value": 0.8203434348106384
         },
         "train/assignment_LeptonicTop": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.4153487980365753
+          "value": 0.4090680778026581
         },
         "train/assignment_SingleVisibleDecay": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.4969902038574219
+          "value": 1.4181392192840576
         },
         "train/classification": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 2.078545331954956
+          "value": 1.9858307838439941
         },
         "train/classification-noised": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.839026689529419
+          "value": 1.9571136236190796
         },
         "train/detection": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.3701133131980896
+          "value": 0.4011847674846649
         },
         "train/generation-recon": {
           "atol": 1.0,
@@ -410,47 +410,47 @@
         "train/generation-truth": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.0798635482788086
+          "value": 0.9606066942214966
         },
         "train/loss": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 8.224209785461426
+          "value": 7.997045993804932
         },
         "train/segmentation": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 5.305319786071777
+          "value": 5.0793256759643555
         },
         "train/segmentation-cls": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 2.1785120964050293
+          "value": 1.9998462200164795
         },
         "train/segmentation-cls-aux": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 2.355710983276367
+          "value": 2.3331220149993896
         },
         "train/segmentation-dice": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.30173105001449585
+          "value": 0.2648986577987671
         },
         "train/segmentation-dice-aux": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.2332659661769867
+          "value": 0.2545926868915558
         },
         "train/segmentation-mask": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.12789569795131683
+          "value": 0.12007372826337814
         },
         "train/segmentation-mask-aux": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.10820404440164566
+          "value": 0.10679211467504501
         },
         "ttW_FullHadronics/train/assignment": {
           "atol": 1.0,
@@ -505,22 +505,22 @@
         "ttW_tHtLWH/val/assignment": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 4.549919128417969
+          "value": 4.549947261810303
         },
         "ttW_tHtLWH/val/detection": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.1327756643295288
+          "value": 1.062069296836853
         },
         "ttW_tHtLWL/train/assignment": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 2.4997174739837646
+          "value": 2.4167630672454834
         },
         "ttW_tHtLWL/train/detection": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.0307471752166748
+          "value": 1.060315489768982
         },
         "ttW_tHtLWL/val/assignment": {
           "atol": 1.0,
@@ -535,12 +535,12 @@
         "ttZ_FullHadronics/train/assignment": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 3.8279433250427246
+          "value": 3.828106641769409
         },
         "ttZ_FullHadronics/train/detection": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.0499683618545532
+          "value": 1.2011876106262207
         },
         "ttZ_FullHadronics/val/assignment": {
           "atol": 1.0,
@@ -565,12 +565,12 @@
         "ttZ_Leptonic/val/assignment": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 4.861424446105957
+          "value": 4.861394882202148
         },
         "ttZ_Leptonic/val/detection": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.1394572257995605
+          "value": 1.1596877574920654
         },
         "ttZ_tHtLZH/train/assignment": {
           "atol": 1.0,
@@ -585,12 +585,12 @@
         "ttZ_tHtLZH/val/assignment": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 4.0204572677612305
+          "value": 4.02044677734375
         },
         "ttZ_tHtLZH/val/detection": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.1319067478179932
+          "value": 1.068452000617981
         },
         "ttZ_tHtLZL/train/assignment": {
           "atol": 1.0,
@@ -615,42 +615,42 @@
         "val/assignment": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.7102611064910889
+          "value": 0.6904932260513306
         },
         "val/assignment_DiObjectDecay": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.8384668231010437
+          "value": 0.8223470449447632
         },
         "val/assignment_HadronicTop": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.384049892425537
+          "value": 1.3783684968948364
         },
         "val/assignment_LeptonicTop": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.2747128009796143
+          "value": 1.258931279182434
         },
         "val/assignment_SingleVisibleDecay": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 1.064476490020752
+          "value": 1.000169038772583
         },
         "val/classification": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 2.176370143890381
+          "value": 2.0896804332733154
         },
         "val/classification-noised": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 2.1704351902008057
+          "value": 2.116300106048584
         },
         "val/detection": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.34476199746131897
+          "value": 0.3392259478569031
         },
         "val/generation-recon": {
           "atol": 1.0,
@@ -660,50 +660,50 @@
         "val/generation-truth": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.8149474263191223
+          "value": 0.715341329574585
         },
         "val/loss": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 8.611467361450195
+          "value": 8.445154190063477
         },
         "val/segmentation": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 5.626084327697754
+          "value": 5.613512992858887
         },
         "val/segmentation-cls": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 2.1221203804016113
+          "value": 2.1879079341888428
         },
         "val/segmentation-cls-aux": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 2.339700222015381
+          "value": 2.3102505207061768
         },
         "val/segmentation-dice": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.4628511071205139
+          "value": 0.4325907230377197
         },
         "val/segmentation-dice-aux": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.43171226978302
+          "value": 0.41983795166015625
         },
         "val/segmentation-mask": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.13717254996299744
+          "value": 0.1622391790151596
         },
         "val/segmentation-mask-aux": {
           "atol": 1.0,
           "rtol": 0.25,
-          "value": 0.13252757489681244
+          "value": 0.10068667680025101
         }
       },
-      "parameter_count": 42574951,
+      "parameter_count": 42574946,
       "required_metric_keys": [
         "HWW_WpHadWmHad/train/assignment",
         "HWW_WpHadWmHad/train/detection",
@@ -2047,11 +2047,2067 @@
         "TruthGeneration.position_encoder.position_embedding.weight",
         "TruthGeneration.time_embedding.dense1.weight",
         "TruthGeneration.time_embedding.dense2.weight",
-        "famo.w.assignment",
-        "famo.w.classification",
-        "famo.w.generation",
-        "famo.w.regression",
-        "famo.w.segmentation",
+        "global_normalizer.mean",
+        "global_normalizer.norm_mask",
+        "global_normalizer.std",
+        "invisible_normalizer.mean",
+        "invisible_normalizer.norm_mask",
+        "invisible_normalizer.std",
+        "num_point_cloud_normalizer.mean",
+        "num_point_cloud_normalizer.norm_mask",
+        "num_point_cloud_normalizer.std",
+        "sequential_normalizer.mean",
+        "sequential_normalizer.norm_mask",
+        "sequential_normalizer.std"
+      ]
+    },
+    "all_heads_progressive_performance": {
+      "metrics": {
+        "HWW_WpHadWmHad/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpHadWmHad/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpHadWmHad/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpHadWmHad/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.31921127438545227
+        },
+        "HWW_WpHadWmLep/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpHadWmLep/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpHadWmLep/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.3059998750686646
+        },
+        "HWW_WpHadWmLep/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.8558904528617859
+        },
+        "HWW_WpLepWmHad/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpLepWmHad/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpLepWmHad/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpLepWmHad/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "HWW_WpLepWmLep/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.56366765499115
+        },
+        "HWW_WpLepWmLep/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.9934933185577393
+        },
+        "HWW_WpLepWmLep/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.27127373218536377
+        },
+        "HWW_WpLepWmLep/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.32518765330314636
+        },
+        "TT1L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TT1L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TT1L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.5111067295074463
+        },
+        "TT1L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.5769590735435486
+        },
+        "TT2L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TT2L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TT2L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.6738320589065552
+        },
+        "TT2L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.3208427131175995
+        },
+        "TTHadronics/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TTHadronics/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "TTHadronics/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.2986345291137695
+        },
+        "TTHadronics/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.5799506902694702
+        },
+        "WJetsToLNu/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WJetsToLNu/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WJetsToLNu/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.069908007979393
+        },
+        "WJetsToLNu/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.526675820350647
+        },
+        "WJetsToQQ/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WJetsToQQ/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.7156603336334229
+        },
+        "WJetsToQQ/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.7730861306190491
+        },
+        "WJetsToQQ/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.5527486801147461
+        },
+        "WW_1L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.9663920998573303
+        },
+        "WW_1L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.8253191709518433
+        },
+        "WW_1L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.747131884098053
+        },
+        "WW_1L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.6156378388404846
+        },
+        "WW_2L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.2997153997421265
+        },
+        "WW_2L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.5418450832366943
+        },
+        "WW_2L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.732090413570404
+        },
+        "WW_2L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.8867002725601196
+        },
+        "WZ_1L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.8973395228385925
+        },
+        "WZ_1L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.6861639022827148
+        },
+        "WZ_1L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.30399999022483826
+        },
+        "WZ_1L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.3168574571609497
+        },
+        "WZ_2L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WZ_2L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WZ_2L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.7731009125709534
+        },
+        "WZ_2L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.30319246649742126
+        },
+        "WZ_3L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WZ_3L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "WZ_3L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.5321059823036194
+        },
+        "WZ_3L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.544238805770874
+        },
+        "ZJetsToLL/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZJetsToLL/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZJetsToLL/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZJetsToLL/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.5939747095108032
+        },
+        "ZJetsToQQ/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.7467522621154785
+        },
+        "ZJetsToQQ/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.9846161603927612
+        },
+        "ZJetsToQQ/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZJetsToQQ/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.9064759016036987
+        },
+        "ZZ_2L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.5271413326263428
+        },
+        "ZZ_2L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.4225114583969116
+        },
+        "ZZ_2L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.6030268669128418
+        },
+        "ZZ_2L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.642957866191864
+        },
+        "ZZ_4L/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZZ_4L/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ZZ_4L/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.9925066232681274
+        },
+        "ZZ_4L/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.2842727303504944
+        },
+        "train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.5479185581207275
+        },
+        "train/assignment_DiObjectDecay": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.8922369480133057
+        },
+        "train/assignment_HadronicTop": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.8203508257865906
+        },
+        "train/assignment_LeptonicTop": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.4090791642665863
+        },
+        "train/assignment_SingleVisibleDecay": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.4181708097457886
+        },
+        "train/classification": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.985834002494812
+        },
+        "train/classification-noised": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.9571559429168701
+        },
+        "train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.4012005925178528
+        },
+        "train/generation-recon": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "train/generation-truth": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.9606056213378906
+        },
+        "train/loss": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 7.997219085693359
+        },
+        "train/segmentation": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 5.0794572830200195
+        },
+        "train/segmentation-cls": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.9998680353164673
+        },
+        "train/segmentation-cls-aux": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.3331246376037598
+        },
+        "train/segmentation-dice": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.26492738723754883
+        },
+        "train/segmentation-dice-aux": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.25457456707954407
+        },
+        "train/segmentation-mask": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.12015492469072342
+        },
+        "train/segmentation-mask-aux": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.10680755227804184
+        },
+        "ttW_FullHadronics/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_FullHadronics/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_FullHadronics/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.8401808738708496
+        },
+        "ttW_FullHadronics/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.5875594615936279
+        },
+        "ttW_Leptonic/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_Leptonic/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_Leptonic/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_Leptonic/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_tHtLWH/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_tHtLWH/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttW_tHtLWH/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.9099894165992737
+        },
+        "ttW_tHtLWH/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.21241413056850433
+        },
+        "ttW_tHtLWL/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.4167680740356445
+        },
+        "ttW_tHtLWL/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.0604045391082764
+        },
+        "ttW_tHtLWL/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.7533008456230164
+        },
+        "ttW_tHtLWL/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.29723119735717773
+        },
+        "ttZ_FullHadronics/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 3.828106641769409
+        },
+        "ttZ_FullHadronics/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.2012012004852295
+        },
+        "ttZ_FullHadronics/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.2239869832992554
+        },
+        "ttZ_FullHadronics/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.2927747666835785
+        },
+        "ttZ_Leptonic/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_Leptonic/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_Leptonic/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.349782705307007
+        },
+        "ttZ_Leptonic/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.5421427488327026
+        },
+        "ttZ_tHtLZH/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_tHtLZH/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_tHtLZH/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 3.0961415767669678
+        },
+        "ttZ_tHtLZH/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.7863420248031616
+        },
+        "ttZ_tHtLZL/train/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_tHtLZL/train/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "ttZ_tHtLZL/val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.4031851291656494
+        },
+        "ttZ_tHtLZL/val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.6116544008255005
+        },
+        "val/assignment": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.0447834730148315
+        },
+        "val/assignment_DiObjectDecay": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.3600757122039795
+        },
+        "val/assignment_HadronicTop": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.3036952018737793
+        },
+        "val/assignment_LeptonicTop": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.9631037712097168
+        },
+        "val/assignment_SingleVisibleDecay": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.9361531734466553
+        },
+        "val/classification": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.0582163333892822
+        },
+        "val/classification-noised": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.0500173568725586
+        },
+        "val/detection": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.48007282614707947
+        },
+        "val/generation-recon": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.0
+        },
+        "val/generation-truth": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 1.4420536756515503
+        },
+        "val/loss": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 9.001678466796875
+        },
+        "val/segmentation": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 5.509607315063477
+        },
+        "val/segmentation-cls": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.1745212078094482
+        },
+        "val/segmentation-cls-aux": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 2.3087873458862305
+        },
+        "val/segmentation-dice": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.4036530554294586
+        },
+        "val/segmentation-dice-aux": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.4052085876464844
+        },
+        "val/segmentation-mask": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.11814377456903458
+        },
+        "val/segmentation-mask-aux": {
+          "atol": 1.0,
+          "rtol": 0.25,
+          "value": 0.09929307550191879
+        }
+      },
+      "parameter_count": 42574946,
+      "required_metric_keys": [
+        "HWW_WpHadWmHad/train/assignment",
+        "HWW_WpHadWmHad/train/detection",
+        "HWW_WpHadWmHad/val/assignment",
+        "HWW_WpHadWmHad/val/detection",
+        "HWW_WpHadWmLep/train/assignment",
+        "HWW_WpHadWmLep/train/detection",
+        "HWW_WpHadWmLep/val/assignment",
+        "HWW_WpHadWmLep/val/detection",
+        "HWW_WpLepWmHad/train/assignment",
+        "HWW_WpLepWmHad/train/detection",
+        "HWW_WpLepWmHad/val/assignment",
+        "HWW_WpLepWmHad/val/detection",
+        "HWW_WpLepWmLep/train/assignment",
+        "HWW_WpLepWmLep/train/detection",
+        "HWW_WpLepWmLep/val/assignment",
+        "HWW_WpLepWmLep/val/detection",
+        "TT1L/train/assignment",
+        "TT1L/train/detection",
+        "TT1L/val/assignment",
+        "TT1L/val/detection",
+        "TT2L/train/assignment",
+        "TT2L/train/detection",
+        "TT2L/val/assignment",
+        "TT2L/val/detection",
+        "TTHadronics/train/assignment",
+        "TTHadronics/train/detection",
+        "TTHadronics/val/assignment",
+        "TTHadronics/val/detection",
+        "WJetsToLNu/train/assignment",
+        "WJetsToLNu/train/detection",
+        "WJetsToLNu/val/assignment",
+        "WJetsToLNu/val/detection",
+        "WJetsToQQ/train/assignment",
+        "WJetsToQQ/train/detection",
+        "WJetsToQQ/val/assignment",
+        "WJetsToQQ/val/detection",
+        "WW_1L/train/assignment",
+        "WW_1L/train/detection",
+        "WW_1L/val/assignment",
+        "WW_1L/val/detection",
+        "WW_2L/train/assignment",
+        "WW_2L/train/detection",
+        "WW_2L/val/assignment",
+        "WW_2L/val/detection",
+        "WZ_1L/train/assignment",
+        "WZ_1L/train/detection",
+        "WZ_1L/val/assignment",
+        "WZ_1L/val/detection",
+        "WZ_2L/train/assignment",
+        "WZ_2L/train/detection",
+        "WZ_2L/val/assignment",
+        "WZ_2L/val/detection",
+        "WZ_3L/train/assignment",
+        "WZ_3L/train/detection",
+        "WZ_3L/val/assignment",
+        "WZ_3L/val/detection",
+        "ZJetsToLL/train/assignment",
+        "ZJetsToLL/train/detection",
+        "ZJetsToLL/val/assignment",
+        "ZJetsToLL/val/detection",
+        "ZJetsToQQ/train/assignment",
+        "ZJetsToQQ/train/detection",
+        "ZJetsToQQ/val/assignment",
+        "ZJetsToQQ/val/detection",
+        "ZZ_2L/train/assignment",
+        "ZZ_2L/train/detection",
+        "ZZ_2L/val/assignment",
+        "ZZ_2L/val/detection",
+        "ZZ_4L/train/assignment",
+        "ZZ_4L/train/detection",
+        "ZZ_4L/val/assignment",
+        "ZZ_4L/val/detection",
+        "train/assignment",
+        "train/assignment_DiObjectDecay",
+        "train/assignment_HadronicTop",
+        "train/assignment_LeptonicTop",
+        "train/assignment_SingleVisibleDecay",
+        "train/classification",
+        "train/classification-noised",
+        "train/detection",
+        "train/generation-recon",
+        "train/generation-truth",
+        "train/loss",
+        "train/segmentation",
+        "train/segmentation-cls",
+        "train/segmentation-cls-aux",
+        "train/segmentation-dice",
+        "train/segmentation-dice-aux",
+        "train/segmentation-mask",
+        "train/segmentation-mask-aux",
+        "ttW_FullHadronics/train/assignment",
+        "ttW_FullHadronics/train/detection",
+        "ttW_FullHadronics/val/assignment",
+        "ttW_FullHadronics/val/detection",
+        "ttW_Leptonic/train/assignment",
+        "ttW_Leptonic/train/detection",
+        "ttW_Leptonic/val/assignment",
+        "ttW_Leptonic/val/detection",
+        "ttW_tHtLWH/train/assignment",
+        "ttW_tHtLWH/train/detection",
+        "ttW_tHtLWH/val/assignment",
+        "ttW_tHtLWH/val/detection",
+        "ttW_tHtLWL/train/assignment",
+        "ttW_tHtLWL/train/detection",
+        "ttW_tHtLWL/val/assignment",
+        "ttW_tHtLWL/val/detection",
+        "ttZ_FullHadronics/train/assignment",
+        "ttZ_FullHadronics/train/detection",
+        "ttZ_FullHadronics/val/assignment",
+        "ttZ_FullHadronics/val/detection",
+        "ttZ_Leptonic/train/assignment",
+        "ttZ_Leptonic/train/detection",
+        "ttZ_Leptonic/val/assignment",
+        "ttZ_Leptonic/val/detection",
+        "ttZ_tHtLZH/train/assignment",
+        "ttZ_tHtLZH/train/detection",
+        "ttZ_tHtLZH/val/assignment",
+        "ttZ_tHtLZH/val/detection",
+        "ttZ_tHtLZL/train/assignment",
+        "ttZ_tHtLZL/train/detection",
+        "ttZ_tHtLZL/val/assignment",
+        "ttZ_tHtLZL/val/detection",
+        "val/assignment",
+        "val/assignment_DiObjectDecay",
+        "val/assignment_HadronicTop",
+        "val/assignment_LeptonicTop",
+        "val/assignment_SingleVisibleDecay",
+        "val/classification",
+        "val/classification-noised",
+        "val/detection",
+        "val/generation-recon",
+        "val/generation-truth",
+        "val/loss",
+        "val/segmentation",
+        "val/segmentation-cls",
+        "val/segmentation-cls-aux",
+        "val/segmentation-dice",
+        "val/segmentation-dice-aux",
+        "val/segmentation-mask",
+        "val/segmentation-mask-aux"
+      ],
+      "state_dict_keys": [
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.0.combined_embedding.final_embedding.gru.gate_bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.0.combined_embedding.final_embedding.gru.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.0.combined_embedding.final_embedding.gru.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.0.combined_embedding.final_embedding.gru.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.0.combined_embedding.final_embedding.gru.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.0.combined_embedding.final_embedding.gru.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.0.combined_embedding.final_embedding.gru.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.0.combined_embedding.final_embedding.gru.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.0.combined_embedding.final_embedding.gru.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.0.combined_embedding.final_embedding.gru.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.0.combined_embedding.final_embedding.linear_1.0.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.0.combined_embedding.final_embedding.linear_1.0.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.0.combined_embedding.final_embedding.linear_2.0.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.0.combined_embedding.final_embedding.linear_2.0.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.0.combined_embedding.final_embedding.normalization.normalization.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.0.combined_embedding.final_embedding.normalization.normalization.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.0.combined_embedding.first_position_embedding.position_embedding",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.0.combined_embedding.second_position_embedding.position_embedding",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.0.particle_vector",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.1.combined_embedding.final_embedding.gru.gate_bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.1.combined_embedding.final_embedding.gru.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.1.combined_embedding.final_embedding.gru.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.1.combined_embedding.final_embedding.gru.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.1.combined_embedding.final_embedding.gru.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.1.combined_embedding.final_embedding.gru.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.1.combined_embedding.final_embedding.gru.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.1.combined_embedding.final_embedding.gru.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.1.combined_embedding.final_embedding.gru.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.1.combined_embedding.final_embedding.gru.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.1.combined_embedding.final_embedding.linear_1.0.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.1.combined_embedding.final_embedding.linear_1.0.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.1.combined_embedding.final_embedding.linear_2.0.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.1.combined_embedding.final_embedding.linear_2.0.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.1.combined_embedding.final_embedding.normalization.normalization.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.1.combined_embedding.final_embedding.normalization.normalization.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.1.combined_embedding.first_position_embedding.position_embedding",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.1.combined_embedding.second_position_embedding.position_embedding",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.encoders.1.particle_vector",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.linear_layers.0.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.linear_layers.0.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.linear_layers.1.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.attention.linear_layers.1.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.detection_classifier.hidden_layers.0.gru.gate_bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.detection_classifier.hidden_layers.0.gru.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.detection_classifier.hidden_layers.0.gru.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.detection_classifier.hidden_layers.0.gru.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.detection_classifier.hidden_layers.0.gru.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.detection_classifier.hidden_layers.0.gru.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.detection_classifier.hidden_layers.0.gru.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.detection_classifier.hidden_layers.0.gru.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.detection_classifier.hidden_layers.0.gru.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.detection_classifier.hidden_layers.0.gru.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.detection_classifier.hidden_layers.0.linear_1.0.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.detection_classifier.hidden_layers.0.linear_1.0.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.detection_classifier.hidden_layers.0.linear_2.0.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.detection_classifier.hidden_layers.0.linear_2.0.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.detection_classifier.hidden_layers.0.normalization.normalization.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.detection_classifier.hidden_layers.0.normalization.normalization.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.detection_classifier.output_layer.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.detection_classifier.output_layer.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.detection_classifier.output_norm.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.detection_classifier.output_norm.num_batches_tracked",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.detection_classifier.output_norm.running_mean",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.detection_classifier.output_norm.running_var",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.detection_classifier.output_norm.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.combined_embedding.final_embedding.gru.gate_bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.combined_embedding.final_embedding.gru.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.combined_embedding.final_embedding.gru.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.combined_embedding.final_embedding.gru.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.combined_embedding.final_embedding.gru.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.combined_embedding.final_embedding.gru.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.combined_embedding.final_embedding.gru.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.combined_embedding.final_embedding.gru.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.combined_embedding.final_embedding.gru.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.combined_embedding.final_embedding.gru.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.combined_embedding.final_embedding.linear_1.0.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.combined_embedding.final_embedding.linear_1.0.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.combined_embedding.final_embedding.linear_2.0.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.combined_embedding.final_embedding.linear_2.0.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.combined_embedding.final_embedding.normalization.normalization.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.combined_embedding.final_embedding.normalization.normalization.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.combined_embedding.first_position_embedding.position_embedding",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.combined_embedding.second_position_embedding.position_embedding",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.dense_particle.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.dense_particle.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.embedding.0.gru.gate_bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.embedding.0.gru.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.embedding.0.gru.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.embedding.0.gru.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.embedding.0.gru.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.embedding.0.gru.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.embedding.0.gru.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.embedding.0.gru.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.embedding.0.gru.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.embedding.0.gru.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.embedding.0.linear_1.0.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.embedding.0.linear_1.0.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.embedding.0.linear_2.0.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.embedding.0.linear_2.0.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.embedding.0.normalization.normalization.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.embedding.0.normalization.normalization.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.attention.in_proj_bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.attention.in_proj_weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.attention.out_proj.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.attention.out_proj.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.attention_gate.gate_bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.attention_gate.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.attention_gate.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.attention_gate.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.attention_gate.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.attention_gate.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.attention_gate.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.attention_gate.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.attention_gate.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.attention_gate.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.attention_norm.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.attention_norm.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.feed_forward.gru.gate_bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.feed_forward.gru.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.feed_forward.gru.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.feed_forward.gru.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.feed_forward.gru.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.feed_forward.gru.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.feed_forward.gru.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.feed_forward.gru.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.feed_forward.gru.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.feed_forward.gru.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.feed_forward.linear_1.0.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.feed_forward.linear_1.0.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.feed_forward.linear_2.0.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.feed_forward.linear_2.0.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.feed_forward.normalization.normalization.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.layers.0.feed_forward.normalization.normalization.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.mlp.0.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.mlp.0.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.mlp.3.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.mlp.3.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.norm.bias",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.encoder.norm.weight",
+        "Assignment.multiprocess_assign_head.DiObjectDecay.encoder.particle_vector",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.0.combined_embedding.final_embedding.gru.gate_bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.0.combined_embedding.final_embedding.gru.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.0.combined_embedding.final_embedding.gru.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.0.combined_embedding.final_embedding.gru.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.0.combined_embedding.final_embedding.gru.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.0.combined_embedding.final_embedding.gru.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.0.combined_embedding.final_embedding.gru.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.0.combined_embedding.final_embedding.gru.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.0.combined_embedding.final_embedding.gru.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.0.combined_embedding.final_embedding.gru.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.0.combined_embedding.final_embedding.linear_1.0.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.0.combined_embedding.final_embedding.linear_1.0.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.0.combined_embedding.final_embedding.linear_2.0.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.0.combined_embedding.final_embedding.linear_2.0.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.0.combined_embedding.final_embedding.normalization.normalization.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.0.combined_embedding.final_embedding.normalization.normalization.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.0.combined_embedding.first_position_embedding.position_embedding",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.0.combined_embedding.second_position_embedding.position_embedding",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.0.particle_vector",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.1.combined_embedding.final_embedding.gru.gate_bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.1.combined_embedding.final_embedding.gru.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.1.combined_embedding.final_embedding.gru.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.1.combined_embedding.final_embedding.gru.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.1.combined_embedding.final_embedding.gru.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.1.combined_embedding.final_embedding.gru.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.1.combined_embedding.final_embedding.gru.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.1.combined_embedding.final_embedding.gru.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.1.combined_embedding.final_embedding.gru.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.1.combined_embedding.final_embedding.gru.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.1.combined_embedding.final_embedding.linear_1.0.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.1.combined_embedding.final_embedding.linear_1.0.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.1.combined_embedding.final_embedding.linear_2.0.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.1.combined_embedding.final_embedding.linear_2.0.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.1.combined_embedding.final_embedding.normalization.normalization.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.1.combined_embedding.final_embedding.normalization.normalization.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.1.combined_embedding.first_position_embedding.position_embedding",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.1.combined_embedding.second_position_embedding.position_embedding",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.1.particle_vector",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.2.combined_embedding.final_embedding.gru.gate_bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.2.combined_embedding.final_embedding.gru.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.2.combined_embedding.final_embedding.gru.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.2.combined_embedding.final_embedding.gru.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.2.combined_embedding.final_embedding.gru.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.2.combined_embedding.final_embedding.gru.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.2.combined_embedding.final_embedding.gru.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.2.combined_embedding.final_embedding.gru.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.2.combined_embedding.final_embedding.gru.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.2.combined_embedding.final_embedding.gru.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.2.combined_embedding.final_embedding.linear_1.0.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.2.combined_embedding.final_embedding.linear_1.0.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.2.combined_embedding.final_embedding.linear_2.0.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.2.combined_embedding.final_embedding.linear_2.0.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.2.combined_embedding.final_embedding.normalization.normalization.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.2.combined_embedding.final_embedding.normalization.normalization.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.2.combined_embedding.first_position_embedding.position_embedding",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.2.combined_embedding.second_position_embedding.position_embedding",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.encoders.2.particle_vector",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.linear_layers.0.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.linear_layers.0.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.linear_layers.1.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.linear_layers.1.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.linear_layers.2.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.attention.linear_layers.2.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.detection_classifier.hidden_layers.0.gru.gate_bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.detection_classifier.hidden_layers.0.gru.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.detection_classifier.hidden_layers.0.gru.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.detection_classifier.hidden_layers.0.gru.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.detection_classifier.hidden_layers.0.gru.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.detection_classifier.hidden_layers.0.gru.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.detection_classifier.hidden_layers.0.gru.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.detection_classifier.hidden_layers.0.gru.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.detection_classifier.hidden_layers.0.gru.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.detection_classifier.hidden_layers.0.gru.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.detection_classifier.hidden_layers.0.linear_1.0.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.detection_classifier.hidden_layers.0.linear_1.0.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.detection_classifier.hidden_layers.0.linear_2.0.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.detection_classifier.hidden_layers.0.linear_2.0.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.detection_classifier.hidden_layers.0.normalization.normalization.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.detection_classifier.hidden_layers.0.normalization.normalization.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.detection_classifier.output_layer.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.detection_classifier.output_layer.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.detection_classifier.output_norm.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.detection_classifier.output_norm.num_batches_tracked",
+        "Assignment.multiprocess_assign_head.HadronicTop.detection_classifier.output_norm.running_mean",
+        "Assignment.multiprocess_assign_head.HadronicTop.detection_classifier.output_norm.running_var",
+        "Assignment.multiprocess_assign_head.HadronicTop.detection_classifier.output_norm.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.combined_embedding.final_embedding.gru.gate_bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.combined_embedding.final_embedding.gru.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.combined_embedding.final_embedding.gru.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.combined_embedding.final_embedding.gru.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.combined_embedding.final_embedding.gru.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.combined_embedding.final_embedding.gru.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.combined_embedding.final_embedding.gru.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.combined_embedding.final_embedding.gru.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.combined_embedding.final_embedding.gru.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.combined_embedding.final_embedding.gru.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.combined_embedding.final_embedding.linear_1.0.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.combined_embedding.final_embedding.linear_1.0.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.combined_embedding.final_embedding.linear_2.0.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.combined_embedding.final_embedding.linear_2.0.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.combined_embedding.final_embedding.normalization.normalization.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.combined_embedding.final_embedding.normalization.normalization.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.combined_embedding.first_position_embedding.position_embedding",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.combined_embedding.second_position_embedding.position_embedding",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.dense_particle.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.dense_particle.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.embedding.0.gru.gate_bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.embedding.0.gru.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.embedding.0.gru.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.embedding.0.gru.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.embedding.0.gru.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.embedding.0.gru.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.embedding.0.gru.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.embedding.0.gru.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.embedding.0.gru.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.embedding.0.gru.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.embedding.0.linear_1.0.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.embedding.0.linear_1.0.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.embedding.0.linear_2.0.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.embedding.0.linear_2.0.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.embedding.0.normalization.normalization.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.embedding.0.normalization.normalization.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.attention.in_proj_bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.attention.in_proj_weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.attention.out_proj.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.attention.out_proj.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.attention_gate.gate_bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.attention_gate.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.attention_gate.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.attention_gate.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.attention_gate.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.attention_gate.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.attention_gate.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.attention_gate.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.attention_gate.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.attention_gate.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.attention_norm.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.attention_norm.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.feed_forward.gru.gate_bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.feed_forward.gru.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.feed_forward.gru.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.feed_forward.gru.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.feed_forward.gru.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.feed_forward.gru.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.feed_forward.gru.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.feed_forward.gru.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.feed_forward.gru.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.feed_forward.gru.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.feed_forward.linear_1.0.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.feed_forward.linear_1.0.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.feed_forward.linear_2.0.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.feed_forward.linear_2.0.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.feed_forward.normalization.normalization.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.layers.0.feed_forward.normalization.normalization.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.mlp.0.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.mlp.0.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.mlp.3.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.mlp.3.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.norm.bias",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.encoder.norm.weight",
+        "Assignment.multiprocess_assign_head.HadronicTop.encoder.particle_vector",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.0.combined_embedding.final_embedding.gru.gate_bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.0.combined_embedding.final_embedding.gru.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.0.combined_embedding.final_embedding.gru.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.0.combined_embedding.final_embedding.gru.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.0.combined_embedding.final_embedding.gru.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.0.combined_embedding.final_embedding.gru.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.0.combined_embedding.final_embedding.gru.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.0.combined_embedding.final_embedding.gru.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.0.combined_embedding.final_embedding.gru.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.0.combined_embedding.final_embedding.gru.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.0.combined_embedding.final_embedding.linear_1.0.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.0.combined_embedding.final_embedding.linear_1.0.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.0.combined_embedding.final_embedding.linear_2.0.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.0.combined_embedding.final_embedding.linear_2.0.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.0.combined_embedding.final_embedding.normalization.normalization.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.0.combined_embedding.final_embedding.normalization.normalization.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.0.combined_embedding.first_position_embedding.position_embedding",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.0.combined_embedding.second_position_embedding.position_embedding",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.0.particle_vector",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.1.combined_embedding.final_embedding.gru.gate_bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.1.combined_embedding.final_embedding.gru.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.1.combined_embedding.final_embedding.gru.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.1.combined_embedding.final_embedding.gru.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.1.combined_embedding.final_embedding.gru.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.1.combined_embedding.final_embedding.gru.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.1.combined_embedding.final_embedding.gru.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.1.combined_embedding.final_embedding.gru.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.1.combined_embedding.final_embedding.gru.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.1.combined_embedding.final_embedding.gru.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.1.combined_embedding.final_embedding.linear_1.0.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.1.combined_embedding.final_embedding.linear_1.0.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.1.combined_embedding.final_embedding.linear_2.0.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.1.combined_embedding.final_embedding.linear_2.0.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.1.combined_embedding.final_embedding.normalization.normalization.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.1.combined_embedding.final_embedding.normalization.normalization.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.1.combined_embedding.first_position_embedding.position_embedding",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.1.combined_embedding.second_position_embedding.position_embedding",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.encoders.1.particle_vector",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.linear_layers.0.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.linear_layers.0.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.linear_layers.1.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.attention.linear_layers.1.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.detection_classifier.hidden_layers.0.gru.gate_bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.detection_classifier.hidden_layers.0.gru.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.detection_classifier.hidden_layers.0.gru.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.detection_classifier.hidden_layers.0.gru.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.detection_classifier.hidden_layers.0.gru.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.detection_classifier.hidden_layers.0.gru.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.detection_classifier.hidden_layers.0.gru.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.detection_classifier.hidden_layers.0.gru.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.detection_classifier.hidden_layers.0.gru.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.detection_classifier.hidden_layers.0.gru.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.detection_classifier.hidden_layers.0.linear_1.0.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.detection_classifier.hidden_layers.0.linear_1.0.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.detection_classifier.hidden_layers.0.linear_2.0.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.detection_classifier.hidden_layers.0.linear_2.0.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.detection_classifier.hidden_layers.0.normalization.normalization.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.detection_classifier.hidden_layers.0.normalization.normalization.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.detection_classifier.output_layer.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.detection_classifier.output_layer.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.detection_classifier.output_norm.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.detection_classifier.output_norm.num_batches_tracked",
+        "Assignment.multiprocess_assign_head.LeptonicTop.detection_classifier.output_norm.running_mean",
+        "Assignment.multiprocess_assign_head.LeptonicTop.detection_classifier.output_norm.running_var",
+        "Assignment.multiprocess_assign_head.LeptonicTop.detection_classifier.output_norm.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.combined_embedding.final_embedding.gru.gate_bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.combined_embedding.final_embedding.gru.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.combined_embedding.final_embedding.gru.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.combined_embedding.final_embedding.gru.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.combined_embedding.final_embedding.gru.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.combined_embedding.final_embedding.gru.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.combined_embedding.final_embedding.gru.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.combined_embedding.final_embedding.gru.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.combined_embedding.final_embedding.gru.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.combined_embedding.final_embedding.gru.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.combined_embedding.final_embedding.linear_1.0.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.combined_embedding.final_embedding.linear_1.0.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.combined_embedding.final_embedding.linear_2.0.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.combined_embedding.final_embedding.linear_2.0.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.combined_embedding.final_embedding.normalization.normalization.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.combined_embedding.final_embedding.normalization.normalization.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.combined_embedding.first_position_embedding.position_embedding",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.combined_embedding.second_position_embedding.position_embedding",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.dense_particle.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.dense_particle.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.embedding.0.gru.gate_bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.embedding.0.gru.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.embedding.0.gru.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.embedding.0.gru.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.embedding.0.gru.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.embedding.0.gru.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.embedding.0.gru.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.embedding.0.gru.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.embedding.0.gru.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.embedding.0.gru.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.embedding.0.linear_1.0.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.embedding.0.linear_1.0.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.embedding.0.linear_2.0.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.embedding.0.linear_2.0.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.embedding.0.normalization.normalization.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.embedding.0.normalization.normalization.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.attention.in_proj_bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.attention.in_proj_weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.attention.out_proj.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.attention.out_proj.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.attention_gate.gate_bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.attention_gate.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.attention_gate.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.attention_gate.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.attention_gate.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.attention_gate.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.attention_gate.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.attention_gate.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.attention_gate.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.attention_gate.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.attention_norm.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.attention_norm.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.feed_forward.gru.gate_bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.feed_forward.gru.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.feed_forward.gru.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.feed_forward.gru.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.feed_forward.gru.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.feed_forward.gru.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.feed_forward.gru.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.feed_forward.gru.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.feed_forward.gru.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.feed_forward.gru.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.feed_forward.linear_1.0.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.feed_forward.linear_1.0.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.feed_forward.linear_2.0.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.feed_forward.linear_2.0.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.feed_forward.normalization.normalization.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.layers.0.feed_forward.normalization.normalization.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.mlp.0.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.mlp.0.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.mlp.3.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.mlp.3.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.norm.bias",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.encoder.norm.weight",
+        "Assignment.multiprocess_assign_head.LeptonicTop.encoder.particle_vector",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.attention.encoders.0.combined_embedding.final_embedding.gru.gate_bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.attention.encoders.0.combined_embedding.final_embedding.gru.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.attention.encoders.0.combined_embedding.final_embedding.gru.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.attention.encoders.0.combined_embedding.final_embedding.gru.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.attention.encoders.0.combined_embedding.final_embedding.gru.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.attention.encoders.0.combined_embedding.final_embedding.gru.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.attention.encoders.0.combined_embedding.final_embedding.gru.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.attention.encoders.0.combined_embedding.final_embedding.gru.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.attention.encoders.0.combined_embedding.final_embedding.gru.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.attention.encoders.0.combined_embedding.final_embedding.gru.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.attention.encoders.0.combined_embedding.final_embedding.linear_1.0.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.attention.encoders.0.combined_embedding.final_embedding.linear_1.0.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.attention.encoders.0.combined_embedding.final_embedding.linear_2.0.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.attention.encoders.0.combined_embedding.final_embedding.linear_2.0.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.attention.encoders.0.combined_embedding.final_embedding.normalization.normalization.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.attention.encoders.0.combined_embedding.final_embedding.normalization.normalization.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.attention.encoders.0.combined_embedding.first_position_embedding.position_embedding",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.attention.encoders.0.combined_embedding.second_position_embedding.position_embedding",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.attention.encoders.0.particle_vector",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.attention.linear_layers.0.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.attention.linear_layers.0.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.detection_classifier.hidden_layers.0.gru.gate_bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.detection_classifier.hidden_layers.0.gru.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.detection_classifier.hidden_layers.0.gru.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.detection_classifier.hidden_layers.0.gru.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.detection_classifier.hidden_layers.0.gru.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.detection_classifier.hidden_layers.0.gru.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.detection_classifier.hidden_layers.0.gru.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.detection_classifier.hidden_layers.0.gru.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.detection_classifier.hidden_layers.0.gru.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.detection_classifier.hidden_layers.0.gru.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.detection_classifier.hidden_layers.0.linear_1.0.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.detection_classifier.hidden_layers.0.linear_1.0.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.detection_classifier.hidden_layers.0.linear_2.0.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.detection_classifier.hidden_layers.0.linear_2.0.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.detection_classifier.hidden_layers.0.normalization.normalization.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.detection_classifier.hidden_layers.0.normalization.normalization.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.detection_classifier.output_layer.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.detection_classifier.output_layer.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.detection_classifier.output_norm.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.detection_classifier.output_norm.num_batches_tracked",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.detection_classifier.output_norm.running_mean",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.detection_classifier.output_norm.running_var",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.detection_classifier.output_norm.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.combined_embedding.final_embedding.gru.gate_bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.combined_embedding.final_embedding.gru.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.combined_embedding.final_embedding.gru.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.combined_embedding.final_embedding.gru.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.combined_embedding.final_embedding.gru.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.combined_embedding.final_embedding.gru.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.combined_embedding.final_embedding.gru.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.combined_embedding.final_embedding.gru.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.combined_embedding.final_embedding.gru.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.combined_embedding.final_embedding.gru.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.combined_embedding.final_embedding.linear_1.0.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.combined_embedding.final_embedding.linear_1.0.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.combined_embedding.final_embedding.linear_2.0.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.combined_embedding.final_embedding.linear_2.0.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.combined_embedding.final_embedding.normalization.normalization.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.combined_embedding.final_embedding.normalization.normalization.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.combined_embedding.first_position_embedding.position_embedding",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.combined_embedding.second_position_embedding.position_embedding",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.dense_particle.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.dense_particle.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.embedding.0.gru.gate_bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.embedding.0.gru.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.embedding.0.gru.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.embedding.0.gru.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.embedding.0.gru.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.embedding.0.gru.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.embedding.0.gru.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.embedding.0.gru.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.embedding.0.gru.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.embedding.0.gru.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.embedding.0.linear_1.0.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.embedding.0.linear_1.0.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.embedding.0.linear_2.0.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.embedding.0.linear_2.0.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.embedding.0.normalization.normalization.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.embedding.0.normalization.normalization.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.attention.in_proj_bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.attention.in_proj_weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.attention.out_proj.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.attention.out_proj.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.attention_gate.gate_bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.attention_gate.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.attention_gate.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.attention_gate.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.attention_gate.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.attention_gate.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.attention_gate.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.attention_gate.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.attention_gate.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.attention_gate.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.attention_norm.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.attention_norm.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.feed_forward.gru.gate_bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.feed_forward.gru.linear_U_g.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.feed_forward.gru.linear_U_r.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.feed_forward.gru.linear_U_z.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.feed_forward.gru.linear_W_g.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.feed_forward.gru.linear_W_g.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.feed_forward.gru.linear_W_r.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.feed_forward.gru.linear_W_r.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.feed_forward.gru.linear_W_z.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.feed_forward.gru.linear_W_z.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.feed_forward.linear_1.0.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.feed_forward.linear_1.0.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.feed_forward.linear_2.0.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.feed_forward.linear_2.0.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.feed_forward.normalization.normalization.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.layers.0.feed_forward.normalization.normalization.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.mlp.0.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.mlp.0.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.mlp.3.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.mlp.3.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.norm.bias",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.encoder.norm.weight",
+        "Assignment.multiprocess_assign_head.SingleVisibleDecay.encoder.particle_vector",
+        "Assignment.resonance_particle_embed.1.bias",
+        "Assignment.resonance_particle_embed.1.weight",
+        "Assignment.resonance_particle_embed.3.bias",
+        "Assignment.resonance_particle_embed.3.weight",
+        "Assignment.resonance_particle_properties.W+/l+",
+        "Assignment.resonance_particle_properties.W+/qq",
+        "Assignment.resonance_particle_properties.W-/l-",
+        "Assignment.resonance_particle_properties.W-/qq",
+        "Assignment.resonance_particle_properties.W/l",
+        "Assignment.resonance_particle_properties.W/qq",
+        "Assignment.resonance_particle_properties.Z/ll",
+        "Assignment.resonance_particle_properties.Z/qq",
+        "Assignment.resonance_particle_properties.t/bl",
+        "Assignment.resonance_particle_properties.t/bl+",
+        "Assignment.resonance_particle_properties.t/bl-",
+        "Assignment.resonance_particle_properties.t/bqq",
+        "Assignment.resonance_particle_properties_normalizer.mean",
+        "Assignment.resonance_particle_properties_normalizer.norm_mask",
+        "Assignment.resonance_particle_properties_normalizer.std",
+        "Classification.class_transformer.attn.in_proj_bias",
+        "Classification.class_transformer.attn.in_proj_weight",
+        "Classification.class_transformer.attn.out_proj.bias",
+        "Classification.class_transformer.attn.out_proj.weight",
+        "Classification.class_transformer.mlp.0.bias",
+        "Classification.class_transformer.mlp.0.weight",
+        "Classification.class_transformer.mlp.3.bias",
+        "Classification.class_transformer.mlp.3.weight",
+        "Classification.class_transformer.norm1.bias",
+        "Classification.class_transformer.norm1.weight",
+        "Classification.class_transformer.norm2.bias",
+        "Classification.class_transformer.norm2.weight",
+        "Classification.class_transformer.norm3.bias",
+        "Classification.class_transformer.norm3.weight",
+        "Classification.networks.classification/signal.hidden_layers.0.gru.gate_bias",
+        "Classification.networks.classification/signal.hidden_layers.0.gru.linear_U_g.weight",
+        "Classification.networks.classification/signal.hidden_layers.0.gru.linear_U_r.weight",
+        "Classification.networks.classification/signal.hidden_layers.0.gru.linear_U_z.weight",
+        "Classification.networks.classification/signal.hidden_layers.0.gru.linear_W_g.bias",
+        "Classification.networks.classification/signal.hidden_layers.0.gru.linear_W_g.weight",
+        "Classification.networks.classification/signal.hidden_layers.0.gru.linear_W_r.bias",
+        "Classification.networks.classification/signal.hidden_layers.0.gru.linear_W_r.weight",
+        "Classification.networks.classification/signal.hidden_layers.0.gru.linear_W_z.bias",
+        "Classification.networks.classification/signal.hidden_layers.0.gru.linear_W_z.weight",
+        "Classification.networks.classification/signal.hidden_layers.0.linear_1.0.bias",
+        "Classification.networks.classification/signal.hidden_layers.0.linear_1.0.weight",
+        "Classification.networks.classification/signal.hidden_layers.0.linear_2.0.bias",
+        "Classification.networks.classification/signal.hidden_layers.0.linear_2.0.weight",
+        "Classification.networks.classification/signal.hidden_layers.0.normalization.normalization.bias",
+        "Classification.networks.classification/signal.hidden_layers.0.normalization.normalization.weight",
+        "Classification.networks.classification/signal.output_layer.bias",
+        "Classification.networks.classification/signal.output_layer.weight",
+        "Classification.networks.classification/signal.output_norm.bias",
+        "Classification.networks.classification/signal.output_norm.num_batches_tracked",
+        "Classification.networks.classification/signal.output_norm.running_mean",
+        "Classification.networks.classification/signal.output_norm.running_var",
+        "Classification.networks.classification/signal.output_norm.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.0.gru.gate_bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.0.gru.linear_U_g.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.0.gru.linear_U_r.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.0.gru.linear_U_z.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.0.gru.linear_W_g.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.0.gru.linear_W_g.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.0.gru.linear_W_r.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.0.gru.linear_W_r.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.0.gru.linear_W_z.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.0.gru.linear_W_z.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.0.linear_1.0.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.0.linear_1.0.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.0.linear_2.0.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.0.linear_2.0.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.0.normalization.normalization.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.0.normalization.normalization.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.0.residual.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.0.residual.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.1.gru.gate_bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.1.gru.linear_U_g.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.1.gru.linear_U_r.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.1.gru.linear_U_z.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.1.gru.linear_W_g.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.1.gru.linear_W_g.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.1.gru.linear_W_r.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.1.gru.linear_W_r.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.1.gru.linear_W_z.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.1.gru.linear_W_z.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.1.linear_1.0.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.1.linear_1.0.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.1.linear_2.0.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.1.linear_2.0.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.1.normalization.normalization.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.1.normalization.normalization.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.1.residual.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.1.residual.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.2.gru.gate_bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.2.gru.linear_U_g.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.2.gru.linear_U_r.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.2.gru.linear_U_z.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.2.gru.linear_W_g.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.2.gru.linear_W_g.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.2.gru.linear_W_r.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.2.gru.linear_W_r.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.2.gru.linear_W_z.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.2.gru.linear_W_z.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.2.linear_1.0.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.2.linear_1.0.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.2.linear_2.0.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.2.linear_2.0.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.2.normalization.normalization.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.2.normalization.normalization.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.2.residual.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.2.residual.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.3.gru.gate_bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.3.gru.linear_U_g.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.3.gru.linear_U_r.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.3.gru.linear_U_z.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.3.gru.linear_W_g.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.3.gru.linear_W_g.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.3.gru.linear_W_r.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.3.gru.linear_W_r.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.3.gru.linear_W_z.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.3.gru.linear_W_z.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.3.linear_1.0.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.3.linear_1.0.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.3.linear_2.0.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.3.linear_2.0.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.3.normalization.normalization.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.3.normalization.normalization.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.3.residual.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.3.residual.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.4.gru.gate_bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.4.gru.linear_U_g.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.4.gru.linear_U_r.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.4.gru.linear_U_z.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.4.gru.linear_W_g.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.4.gru.linear_W_g.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.4.gru.linear_W_r.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.4.gru.linear_W_r.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.4.gru.linear_W_z.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.4.gru.linear_W_z.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.4.linear_1.0.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.4.linear_1.0.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.4.linear_2.0.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.4.linear_2.0.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.4.normalization.normalization.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.4.normalization.normalization.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.4.residual.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.4.residual.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.5.gru.gate_bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.5.gru.linear_U_g.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.5.gru.linear_U_r.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.5.gru.linear_U_z.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.5.gru.linear_W_g.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.5.gru.linear_W_g.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.5.gru.linear_W_r.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.5.gru.linear_W_r.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.5.gru.linear_W_z.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.5.gru.linear_W_z.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.5.linear_1.0.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.5.linear_1.0.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.5.linear_2.0.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.5.linear_2.0.weight",
+        "GlobalEmbedding.embedding_stack.embedding_layers.5.normalization.normalization.bias",
+        "GlobalEmbedding.embedding_stack.embedding_layers.5.normalization.normalization.weight",
+        "InvisibleInputProjector.input_projection.bias",
+        "InvisibleInputProjector.input_projection.weight",
+        "InvisibleInputProjector.layer_scale.gamma",
+        "InvisibleInputProjector.mlp.0.bias",
+        "InvisibleInputProjector.mlp.0.weight",
+        "InvisibleInputProjector.mlp.2.bias",
+        "InvisibleInputProjector.mlp.2.weight",
+        "InvisibleInputProjector.pre_norm.bias",
+        "InvisibleInputProjector.pre_norm.weight",
+        "ObjectEncoder.combined_embedding.final_embedding.gru.gate_bias",
+        "ObjectEncoder.combined_embedding.final_embedding.gru.linear_U_g.weight",
+        "ObjectEncoder.combined_embedding.final_embedding.gru.linear_U_r.weight",
+        "ObjectEncoder.combined_embedding.final_embedding.gru.linear_U_z.weight",
+        "ObjectEncoder.combined_embedding.final_embedding.gru.linear_W_g.bias",
+        "ObjectEncoder.combined_embedding.final_embedding.gru.linear_W_g.weight",
+        "ObjectEncoder.combined_embedding.final_embedding.gru.linear_W_r.bias",
+        "ObjectEncoder.combined_embedding.final_embedding.gru.linear_W_r.weight",
+        "ObjectEncoder.combined_embedding.final_embedding.gru.linear_W_z.bias",
+        "ObjectEncoder.combined_embedding.final_embedding.gru.linear_W_z.weight",
+        "ObjectEncoder.combined_embedding.final_embedding.linear_1.0.bias",
+        "ObjectEncoder.combined_embedding.final_embedding.linear_1.0.weight",
+        "ObjectEncoder.combined_embedding.final_embedding.linear_2.0.bias",
+        "ObjectEncoder.combined_embedding.final_embedding.linear_2.0.weight",
+        "ObjectEncoder.combined_embedding.final_embedding.normalization.normalization.bias",
+        "ObjectEncoder.combined_embedding.final_embedding.normalization.normalization.weight",
+        "ObjectEncoder.combined_embedding.first_position_embedding.position_embedding",
+        "ObjectEncoder.combined_embedding.second_position_embedding.position_embedding",
+        "ObjectEncoder.embedding.0.gru.gate_bias",
+        "ObjectEncoder.embedding.0.gru.linear_U_g.weight",
+        "ObjectEncoder.embedding.0.gru.linear_U_r.weight",
+        "ObjectEncoder.embedding.0.gru.linear_U_z.weight",
+        "ObjectEncoder.embedding.0.gru.linear_W_g.bias",
+        "ObjectEncoder.embedding.0.gru.linear_W_g.weight",
+        "ObjectEncoder.embedding.0.gru.linear_W_r.bias",
+        "ObjectEncoder.embedding.0.gru.linear_W_r.weight",
+        "ObjectEncoder.embedding.0.gru.linear_W_z.bias",
+        "ObjectEncoder.embedding.0.gru.linear_W_z.weight",
+        "ObjectEncoder.embedding.0.linear_1.0.bias",
+        "ObjectEncoder.embedding.0.linear_1.0.weight",
+        "ObjectEncoder.embedding.0.linear_2.0.bias",
+        "ObjectEncoder.embedding.0.linear_2.0.weight",
+        "ObjectEncoder.embedding.0.normalization.normalization.bias",
+        "ObjectEncoder.embedding.0.normalization.normalization.weight",
+        "ObjectEncoder.embedding.1.gru.gate_bias",
+        "ObjectEncoder.embedding.1.gru.linear_U_g.weight",
+        "ObjectEncoder.embedding.1.gru.linear_U_r.weight",
+        "ObjectEncoder.embedding.1.gru.linear_U_z.weight",
+        "ObjectEncoder.embedding.1.gru.linear_W_g.bias",
+        "ObjectEncoder.embedding.1.gru.linear_W_g.weight",
+        "ObjectEncoder.embedding.1.gru.linear_W_r.bias",
+        "ObjectEncoder.embedding.1.gru.linear_W_r.weight",
+        "ObjectEncoder.embedding.1.gru.linear_W_z.bias",
+        "ObjectEncoder.embedding.1.gru.linear_W_z.weight",
+        "ObjectEncoder.embedding.1.linear_1.0.bias",
+        "ObjectEncoder.embedding.1.linear_1.0.weight",
+        "ObjectEncoder.embedding.1.linear_2.0.bias",
+        "ObjectEncoder.embedding.1.linear_2.0.weight",
+        "ObjectEncoder.embedding.1.normalization.normalization.bias",
+        "ObjectEncoder.embedding.1.normalization.normalization.weight",
+        "ObjectEncoder.encoder.layers.0.attention.in_proj_bias",
+        "ObjectEncoder.encoder.layers.0.attention.in_proj_weight",
+        "ObjectEncoder.encoder.layers.0.attention.out_proj.bias",
+        "ObjectEncoder.encoder.layers.0.attention.out_proj.weight",
+        "ObjectEncoder.encoder.layers.0.attention_gate.gate_bias",
+        "ObjectEncoder.encoder.layers.0.attention_gate.linear_U_g.weight",
+        "ObjectEncoder.encoder.layers.0.attention_gate.linear_U_r.weight",
+        "ObjectEncoder.encoder.layers.0.attention_gate.linear_U_z.weight",
+        "ObjectEncoder.encoder.layers.0.attention_gate.linear_W_g.bias",
+        "ObjectEncoder.encoder.layers.0.attention_gate.linear_W_g.weight",
+        "ObjectEncoder.encoder.layers.0.attention_gate.linear_W_r.bias",
+        "ObjectEncoder.encoder.layers.0.attention_gate.linear_W_r.weight",
+        "ObjectEncoder.encoder.layers.0.attention_gate.linear_W_z.bias",
+        "ObjectEncoder.encoder.layers.0.attention_gate.linear_W_z.weight",
+        "ObjectEncoder.encoder.layers.0.attention_norm.bias",
+        "ObjectEncoder.encoder.layers.0.attention_norm.weight",
+        "ObjectEncoder.encoder.layers.0.feed_forward.gru.gate_bias",
+        "ObjectEncoder.encoder.layers.0.feed_forward.gru.linear_U_g.weight",
+        "ObjectEncoder.encoder.layers.0.feed_forward.gru.linear_U_r.weight",
+        "ObjectEncoder.encoder.layers.0.feed_forward.gru.linear_U_z.weight",
+        "ObjectEncoder.encoder.layers.0.feed_forward.gru.linear_W_g.bias",
+        "ObjectEncoder.encoder.layers.0.feed_forward.gru.linear_W_g.weight",
+        "ObjectEncoder.encoder.layers.0.feed_forward.gru.linear_W_r.bias",
+        "ObjectEncoder.encoder.layers.0.feed_forward.gru.linear_W_r.weight",
+        "ObjectEncoder.encoder.layers.0.feed_forward.gru.linear_W_z.bias",
+        "ObjectEncoder.encoder.layers.0.feed_forward.gru.linear_W_z.weight",
+        "ObjectEncoder.encoder.layers.0.feed_forward.linear_1.0.bias",
+        "ObjectEncoder.encoder.layers.0.feed_forward.linear_1.0.weight",
+        "ObjectEncoder.encoder.layers.0.feed_forward.linear_2.0.bias",
+        "ObjectEncoder.encoder.layers.0.feed_forward.linear_2.0.weight",
+        "ObjectEncoder.encoder.layers.0.feed_forward.normalization.normalization.bias",
+        "ObjectEncoder.encoder.layers.0.feed_forward.normalization.normalization.weight",
+        "ObjectEncoder.encoder.layers.1.attention.in_proj_bias",
+        "ObjectEncoder.encoder.layers.1.attention.in_proj_weight",
+        "ObjectEncoder.encoder.layers.1.attention.out_proj.bias",
+        "ObjectEncoder.encoder.layers.1.attention.out_proj.weight",
+        "ObjectEncoder.encoder.layers.1.attention_gate.gate_bias",
+        "ObjectEncoder.encoder.layers.1.attention_gate.linear_U_g.weight",
+        "ObjectEncoder.encoder.layers.1.attention_gate.linear_U_r.weight",
+        "ObjectEncoder.encoder.layers.1.attention_gate.linear_U_z.weight",
+        "ObjectEncoder.encoder.layers.1.attention_gate.linear_W_g.bias",
+        "ObjectEncoder.encoder.layers.1.attention_gate.linear_W_g.weight",
+        "ObjectEncoder.encoder.layers.1.attention_gate.linear_W_r.bias",
+        "ObjectEncoder.encoder.layers.1.attention_gate.linear_W_r.weight",
+        "ObjectEncoder.encoder.layers.1.attention_gate.linear_W_z.bias",
+        "ObjectEncoder.encoder.layers.1.attention_gate.linear_W_z.weight",
+        "ObjectEncoder.encoder.layers.1.attention_norm.bias",
+        "ObjectEncoder.encoder.layers.1.attention_norm.weight",
+        "ObjectEncoder.encoder.layers.1.feed_forward.gru.gate_bias",
+        "ObjectEncoder.encoder.layers.1.feed_forward.gru.linear_U_g.weight",
+        "ObjectEncoder.encoder.layers.1.feed_forward.gru.linear_U_r.weight",
+        "ObjectEncoder.encoder.layers.1.feed_forward.gru.linear_U_z.weight",
+        "ObjectEncoder.encoder.layers.1.feed_forward.gru.linear_W_g.bias",
+        "ObjectEncoder.encoder.layers.1.feed_forward.gru.linear_W_g.weight",
+        "ObjectEncoder.encoder.layers.1.feed_forward.gru.linear_W_r.bias",
+        "ObjectEncoder.encoder.layers.1.feed_forward.gru.linear_W_r.weight",
+        "ObjectEncoder.encoder.layers.1.feed_forward.gru.linear_W_z.bias",
+        "ObjectEncoder.encoder.layers.1.feed_forward.gru.linear_W_z.weight",
+        "ObjectEncoder.encoder.layers.1.feed_forward.linear_1.0.bias",
+        "ObjectEncoder.encoder.layers.1.feed_forward.linear_1.0.weight",
+        "ObjectEncoder.encoder.layers.1.feed_forward.linear_2.0.bias",
+        "ObjectEncoder.encoder.layers.1.feed_forward.linear_2.0.weight",
+        "ObjectEncoder.encoder.layers.1.feed_forward.normalization.normalization.bias",
+        "ObjectEncoder.encoder.layers.1.feed_forward.normalization.normalization.weight",
+        "ObjectEncoder.encoder.mlp.0.bias",
+        "ObjectEncoder.encoder.mlp.0.weight",
+        "ObjectEncoder.encoder.mlp.3.bias",
+        "ObjectEncoder.encoder.mlp.3.weight",
+        "ObjectEncoder.encoder.norm.bias",
+        "ObjectEncoder.encoder.norm.weight",
+        "ObjectEncoder.particle_vector",
+        "PET.feature_embedding.0.bias",
+        "PET.feature_embedding.0.weight",
+        "PET.feature_embedding.2.bias",
+        "PET.feature_embedding.2.weight",
+        "PET.local_embedding.local_embed_layer.0.mlp.0.bias",
+        "PET.local_embedding.local_embed_layer.0.mlp.0.weight",
+        "PET.local_embedding.local_embed_layer.0.mlp.2.bias",
+        "PET.local_embedding.local_embed_layer.0.mlp.2.weight",
+        "PET.local_embedding.local_embed_layer.1.mlp.0.bias",
+        "PET.local_embedding.local_embed_layer.1.mlp.0.weight",
+        "PET.local_embedding.local_embed_layer.1.mlp.2.bias",
+        "PET.local_embedding.local_embed_layer.1.mlp.2.weight",
+        "PET.local_embedding.local_embed_layer.2.mlp.0.bias",
+        "PET.local_embedding.local_embed_layer.2.mlp.0.weight",
+        "PET.local_embedding.local_embed_layer.2.mlp.2.bias",
+        "PET.local_embedding.local_embed_layer.2.mlp.2.weight",
+        "PET.local_embedding.local_embed_layer.3.mlp.0.bias",
+        "PET.local_embedding.local_embed_layer.3.mlp.0.weight",
+        "PET.local_embedding.local_embed_layer.3.mlp.2.bias",
+        "PET.local_embedding.local_embed_layer.3.mlp.2.weight",
+        "PET.local_embedding.local_embed_layer.4.mlp.0.bias",
+        "PET.local_embedding.local_embed_layer.4.mlp.0.weight",
+        "PET.local_embedding.local_embed_layer.4.mlp.2.bias",
+        "PET.local_embedding.local_embed_layer.4.mlp.2.weight",
+        "PET.local_embedding.local_embed_layer.5.mlp.0.bias",
+        "PET.local_embedding.local_embed_layer.5.mlp.0.weight",
+        "PET.local_embedding.local_embed_layer.5.mlp.2.bias",
+        "PET.local_embedding.local_embed_layer.5.mlp.2.weight",
+        "PET.local_embedding.local_embed_layer.6.mlp.0.bias",
+        "PET.local_embedding.local_embed_layer.6.mlp.0.weight",
+        "PET.local_embedding.local_embed_layer.6.mlp.2.bias",
+        "PET.local_embedding.local_embed_layer.6.mlp.2.weight",
+        "PET.local_embedding.local_embed_layer.7.mlp.0.bias",
+        "PET.local_embedding.local_embed_layer.7.mlp.0.weight",
+        "PET.local_embedding.local_embed_layer.7.mlp.2.bias",
+        "PET.local_embedding.local_embed_layer.7.mlp.2.weight",
+        "PET.local_embedding.local_embed_layer.8.mlp.0.bias",
+        "PET.local_embedding.local_embed_layer.8.mlp.0.weight",
+        "PET.local_embedding.local_embed_layer.8.mlp.2.bias",
+        "PET.local_embedding.local_embed_layer.8.mlp.2.weight",
+        "PET.local_embedding.local_embed_layer.9.mlp.0.bias",
+        "PET.local_embedding.local_embed_layer.9.mlp.0.weight",
+        "PET.local_embedding.local_embed_layer.9.mlp.2.bias",
+        "PET.local_embedding.local_embed_layer.9.mlp.2.weight",
+        "PET.time_embed_linear.weight",
+        "PET.time_embedding.dense1.weight",
+        "PET.time_embedding.dense2.weight",
+        "PET.transformer_blocks.0.attn.in_proj_bias",
+        "PET.transformer_blocks.0.attn.in_proj_weight",
+        "PET.transformer_blocks.0.attn.out_proj.bias",
+        "PET.transformer_blocks.0.attn.out_proj.weight",
+        "PET.transformer_blocks.0.layer_scale1.gamma",
+        "PET.transformer_blocks.0.layer_scale2.gamma",
+        "PET.transformer_blocks.0.mlp.0.bias",
+        "PET.transformer_blocks.0.mlp.0.weight",
+        "PET.transformer_blocks.0.mlp.3.bias",
+        "PET.transformer_blocks.0.mlp.3.weight",
+        "PET.transformer_blocks.0.norm1.bias",
+        "PET.transformer_blocks.0.norm1.weight",
+        "PET.transformer_blocks.0.norm2.bias",
+        "PET.transformer_blocks.0.norm2.weight",
+        "PET.transformer_blocks.1.attn.in_proj_bias",
+        "PET.transformer_blocks.1.attn.in_proj_weight",
+        "PET.transformer_blocks.1.attn.out_proj.bias",
+        "PET.transformer_blocks.1.attn.out_proj.weight",
+        "PET.transformer_blocks.1.layer_scale1.gamma",
+        "PET.transformer_blocks.1.layer_scale2.gamma",
+        "PET.transformer_blocks.1.mlp.0.bias",
+        "PET.transformer_blocks.1.mlp.0.weight",
+        "PET.transformer_blocks.1.mlp.3.bias",
+        "PET.transformer_blocks.1.mlp.3.weight",
+        "PET.transformer_blocks.1.norm1.bias",
+        "PET.transformer_blocks.1.norm1.weight",
+        "PET.transformer_blocks.1.norm2.bias",
+        "PET.transformer_blocks.1.norm2.weight",
+        "PET.transformer_blocks.10.attn.in_proj_bias",
+        "PET.transformer_blocks.10.attn.in_proj_weight",
+        "PET.transformer_blocks.10.attn.out_proj.bias",
+        "PET.transformer_blocks.10.attn.out_proj.weight",
+        "PET.transformer_blocks.10.layer_scale1.gamma",
+        "PET.transformer_blocks.10.layer_scale2.gamma",
+        "PET.transformer_blocks.10.mlp.0.bias",
+        "PET.transformer_blocks.10.mlp.0.weight",
+        "PET.transformer_blocks.10.mlp.3.bias",
+        "PET.transformer_blocks.10.mlp.3.weight",
+        "PET.transformer_blocks.10.norm1.bias",
+        "PET.transformer_blocks.10.norm1.weight",
+        "PET.transformer_blocks.10.norm2.bias",
+        "PET.transformer_blocks.10.norm2.weight",
+        "PET.transformer_blocks.11.attn.in_proj_bias",
+        "PET.transformer_blocks.11.attn.in_proj_weight",
+        "PET.transformer_blocks.11.attn.out_proj.bias",
+        "PET.transformer_blocks.11.attn.out_proj.weight",
+        "PET.transformer_blocks.11.layer_scale1.gamma",
+        "PET.transformer_blocks.11.layer_scale2.gamma",
+        "PET.transformer_blocks.11.mlp.0.bias",
+        "PET.transformer_blocks.11.mlp.0.weight",
+        "PET.transformer_blocks.11.mlp.3.bias",
+        "PET.transformer_blocks.11.mlp.3.weight",
+        "PET.transformer_blocks.11.norm1.bias",
+        "PET.transformer_blocks.11.norm1.weight",
+        "PET.transformer_blocks.11.norm2.bias",
+        "PET.transformer_blocks.11.norm2.weight",
+        "PET.transformer_blocks.12.attn.in_proj_bias",
+        "PET.transformer_blocks.12.attn.in_proj_weight",
+        "PET.transformer_blocks.12.attn.out_proj.bias",
+        "PET.transformer_blocks.12.attn.out_proj.weight",
+        "PET.transformer_blocks.12.layer_scale1.gamma",
+        "PET.transformer_blocks.12.layer_scale2.gamma",
+        "PET.transformer_blocks.12.mlp.0.bias",
+        "PET.transformer_blocks.12.mlp.0.weight",
+        "PET.transformer_blocks.12.mlp.3.bias",
+        "PET.transformer_blocks.12.mlp.3.weight",
+        "PET.transformer_blocks.12.norm1.bias",
+        "PET.transformer_blocks.12.norm1.weight",
+        "PET.transformer_blocks.12.norm2.bias",
+        "PET.transformer_blocks.12.norm2.weight",
+        "PET.transformer_blocks.13.attn.in_proj_bias",
+        "PET.transformer_blocks.13.attn.in_proj_weight",
+        "PET.transformer_blocks.13.attn.out_proj.bias",
+        "PET.transformer_blocks.13.attn.out_proj.weight",
+        "PET.transformer_blocks.13.layer_scale1.gamma",
+        "PET.transformer_blocks.13.layer_scale2.gamma",
+        "PET.transformer_blocks.13.mlp.0.bias",
+        "PET.transformer_blocks.13.mlp.0.weight",
+        "PET.transformer_blocks.13.mlp.3.bias",
+        "PET.transformer_blocks.13.mlp.3.weight",
+        "PET.transformer_blocks.13.norm1.bias",
+        "PET.transformer_blocks.13.norm1.weight",
+        "PET.transformer_blocks.13.norm2.bias",
+        "PET.transformer_blocks.13.norm2.weight",
+        "PET.transformer_blocks.14.attn.in_proj_bias",
+        "PET.transformer_blocks.14.attn.in_proj_weight",
+        "PET.transformer_blocks.14.attn.out_proj.bias",
+        "PET.transformer_blocks.14.attn.out_proj.weight",
+        "PET.transformer_blocks.14.layer_scale1.gamma",
+        "PET.transformer_blocks.14.layer_scale2.gamma",
+        "PET.transformer_blocks.14.mlp.0.bias",
+        "PET.transformer_blocks.14.mlp.0.weight",
+        "PET.transformer_blocks.14.mlp.3.bias",
+        "PET.transformer_blocks.14.mlp.3.weight",
+        "PET.transformer_blocks.14.norm1.bias",
+        "PET.transformer_blocks.14.norm1.weight",
+        "PET.transformer_blocks.14.norm2.bias",
+        "PET.transformer_blocks.14.norm2.weight",
+        "PET.transformer_blocks.15.attn.in_proj_bias",
+        "PET.transformer_blocks.15.attn.in_proj_weight",
+        "PET.transformer_blocks.15.attn.out_proj.bias",
+        "PET.transformer_blocks.15.attn.out_proj.weight",
+        "PET.transformer_blocks.15.layer_scale1.gamma",
+        "PET.transformer_blocks.15.layer_scale2.gamma",
+        "PET.transformer_blocks.15.mlp.0.bias",
+        "PET.transformer_blocks.15.mlp.0.weight",
+        "PET.transformer_blocks.15.mlp.3.bias",
+        "PET.transformer_blocks.15.mlp.3.weight",
+        "PET.transformer_blocks.15.norm1.bias",
+        "PET.transformer_blocks.15.norm1.weight",
+        "PET.transformer_blocks.15.norm2.bias",
+        "PET.transformer_blocks.15.norm2.weight",
+        "PET.transformer_blocks.2.attn.in_proj_bias",
+        "PET.transformer_blocks.2.attn.in_proj_weight",
+        "PET.transformer_blocks.2.attn.out_proj.bias",
+        "PET.transformer_blocks.2.attn.out_proj.weight",
+        "PET.transformer_blocks.2.layer_scale1.gamma",
+        "PET.transformer_blocks.2.layer_scale2.gamma",
+        "PET.transformer_blocks.2.mlp.0.bias",
+        "PET.transformer_blocks.2.mlp.0.weight",
+        "PET.transformer_blocks.2.mlp.3.bias",
+        "PET.transformer_blocks.2.mlp.3.weight",
+        "PET.transformer_blocks.2.norm1.bias",
+        "PET.transformer_blocks.2.norm1.weight",
+        "PET.transformer_blocks.2.norm2.bias",
+        "PET.transformer_blocks.2.norm2.weight",
+        "PET.transformer_blocks.3.attn.in_proj_bias",
+        "PET.transformer_blocks.3.attn.in_proj_weight",
+        "PET.transformer_blocks.3.attn.out_proj.bias",
+        "PET.transformer_blocks.3.attn.out_proj.weight",
+        "PET.transformer_blocks.3.layer_scale1.gamma",
+        "PET.transformer_blocks.3.layer_scale2.gamma",
+        "PET.transformer_blocks.3.mlp.0.bias",
+        "PET.transformer_blocks.3.mlp.0.weight",
+        "PET.transformer_blocks.3.mlp.3.bias",
+        "PET.transformer_blocks.3.mlp.3.weight",
+        "PET.transformer_blocks.3.norm1.bias",
+        "PET.transformer_blocks.3.norm1.weight",
+        "PET.transformer_blocks.3.norm2.bias",
+        "PET.transformer_blocks.3.norm2.weight",
+        "PET.transformer_blocks.4.attn.in_proj_bias",
+        "PET.transformer_blocks.4.attn.in_proj_weight",
+        "PET.transformer_blocks.4.attn.out_proj.bias",
+        "PET.transformer_blocks.4.attn.out_proj.weight",
+        "PET.transformer_blocks.4.layer_scale1.gamma",
+        "PET.transformer_blocks.4.layer_scale2.gamma",
+        "PET.transformer_blocks.4.mlp.0.bias",
+        "PET.transformer_blocks.4.mlp.0.weight",
+        "PET.transformer_blocks.4.mlp.3.bias",
+        "PET.transformer_blocks.4.mlp.3.weight",
+        "PET.transformer_blocks.4.norm1.bias",
+        "PET.transformer_blocks.4.norm1.weight",
+        "PET.transformer_blocks.4.norm2.bias",
+        "PET.transformer_blocks.4.norm2.weight",
+        "PET.transformer_blocks.5.attn.in_proj_bias",
+        "PET.transformer_blocks.5.attn.in_proj_weight",
+        "PET.transformer_blocks.5.attn.out_proj.bias",
+        "PET.transformer_blocks.5.attn.out_proj.weight",
+        "PET.transformer_blocks.5.layer_scale1.gamma",
+        "PET.transformer_blocks.5.layer_scale2.gamma",
+        "PET.transformer_blocks.5.mlp.0.bias",
+        "PET.transformer_blocks.5.mlp.0.weight",
+        "PET.transformer_blocks.5.mlp.3.bias",
+        "PET.transformer_blocks.5.mlp.3.weight",
+        "PET.transformer_blocks.5.norm1.bias",
+        "PET.transformer_blocks.5.norm1.weight",
+        "PET.transformer_blocks.5.norm2.bias",
+        "PET.transformer_blocks.5.norm2.weight",
+        "PET.transformer_blocks.6.attn.in_proj_bias",
+        "PET.transformer_blocks.6.attn.in_proj_weight",
+        "PET.transformer_blocks.6.attn.out_proj.bias",
+        "PET.transformer_blocks.6.attn.out_proj.weight",
+        "PET.transformer_blocks.6.layer_scale1.gamma",
+        "PET.transformer_blocks.6.layer_scale2.gamma",
+        "PET.transformer_blocks.6.mlp.0.bias",
+        "PET.transformer_blocks.6.mlp.0.weight",
+        "PET.transformer_blocks.6.mlp.3.bias",
+        "PET.transformer_blocks.6.mlp.3.weight",
+        "PET.transformer_blocks.6.norm1.bias",
+        "PET.transformer_blocks.6.norm1.weight",
+        "PET.transformer_blocks.6.norm2.bias",
+        "PET.transformer_blocks.6.norm2.weight",
+        "PET.transformer_blocks.7.attn.in_proj_bias",
+        "PET.transformer_blocks.7.attn.in_proj_weight",
+        "PET.transformer_blocks.7.attn.out_proj.bias",
+        "PET.transformer_blocks.7.attn.out_proj.weight",
+        "PET.transformer_blocks.7.layer_scale1.gamma",
+        "PET.transformer_blocks.7.layer_scale2.gamma",
+        "PET.transformer_blocks.7.mlp.0.bias",
+        "PET.transformer_blocks.7.mlp.0.weight",
+        "PET.transformer_blocks.7.mlp.3.bias",
+        "PET.transformer_blocks.7.mlp.3.weight",
+        "PET.transformer_blocks.7.norm1.bias",
+        "PET.transformer_blocks.7.norm1.weight",
+        "PET.transformer_blocks.7.norm2.bias",
+        "PET.transformer_blocks.7.norm2.weight",
+        "PET.transformer_blocks.8.attn.in_proj_bias",
+        "PET.transformer_blocks.8.attn.in_proj_weight",
+        "PET.transformer_blocks.8.attn.out_proj.bias",
+        "PET.transformer_blocks.8.attn.out_proj.weight",
+        "PET.transformer_blocks.8.layer_scale1.gamma",
+        "PET.transformer_blocks.8.layer_scale2.gamma",
+        "PET.transformer_blocks.8.mlp.0.bias",
+        "PET.transformer_blocks.8.mlp.0.weight",
+        "PET.transformer_blocks.8.mlp.3.bias",
+        "PET.transformer_blocks.8.mlp.3.weight",
+        "PET.transformer_blocks.8.norm1.bias",
+        "PET.transformer_blocks.8.norm1.weight",
+        "PET.transformer_blocks.8.norm2.bias",
+        "PET.transformer_blocks.8.norm2.weight",
+        "PET.transformer_blocks.9.attn.in_proj_bias",
+        "PET.transformer_blocks.9.attn.in_proj_weight",
+        "PET.transformer_blocks.9.attn.out_proj.bias",
+        "PET.transformer_blocks.9.attn.out_proj.weight",
+        "PET.transformer_blocks.9.layer_scale1.gamma",
+        "PET.transformer_blocks.9.layer_scale2.gamma",
+        "PET.transformer_blocks.9.mlp.0.bias",
+        "PET.transformer_blocks.9.mlp.0.weight",
+        "PET.transformer_blocks.9.mlp.3.bias",
+        "PET.transformer_blocks.9.mlp.3.weight",
+        "PET.transformer_blocks.9.norm1.bias",
+        "PET.transformer_blocks.9.norm1.weight",
+        "PET.transformer_blocks.9.norm2.bias",
+        "PET.transformer_blocks.9.norm2.weight",
+        "ReconGeneration.cond_token.0.bias",
+        "ReconGeneration.cond_token.0.weight",
+        "ReconGeneration.cond_token.2.bias",
+        "ReconGeneration.cond_token.2.weight",
+        "ReconGeneration.gen_transformer_blocks.0.attn.in_proj_bias",
+        "ReconGeneration.gen_transformer_blocks.0.attn.in_proj_weight",
+        "ReconGeneration.gen_transformer_blocks.0.attn.out_proj.bias",
+        "ReconGeneration.gen_transformer_blocks.0.attn.out_proj.weight",
+        "ReconGeneration.gen_transformer_blocks.0.layer_scale1.gamma",
+        "ReconGeneration.gen_transformer_blocks.0.layer_scale2.gamma",
+        "ReconGeneration.gen_transformer_blocks.0.mlp.0.bias",
+        "ReconGeneration.gen_transformer_blocks.0.mlp.0.weight",
+        "ReconGeneration.gen_transformer_blocks.0.mlp.2.bias",
+        "ReconGeneration.gen_transformer_blocks.0.mlp.2.weight",
+        "ReconGeneration.gen_transformer_blocks.0.norm1.bias",
+        "ReconGeneration.gen_transformer_blocks.0.norm1.weight",
+        "ReconGeneration.gen_transformer_blocks.0.norm3.bias",
+        "ReconGeneration.gen_transformer_blocks.0.norm3.weight",
+        "ReconGeneration.generator.bias",
+        "ReconGeneration.generator.weight",
+        "ReconGeneration.label_dense.weight",
+        "ReconGeneration.num_point_cloud_embedding.dense1.weight",
+        "ReconGeneration.num_point_cloud_embedding.dense2.weight",
+        "ReconGeneration.time_embedding.dense1.weight",
+        "ReconGeneration.time_embedding.dense2.weight",
+        "Segmentation.class_embed.bias",
+        "Segmentation.class_embed.weight",
+        "Segmentation.decoder_norm.bias",
+        "Segmentation.decoder_norm.weight",
+        "Segmentation.mask_embed.layers.0.bias",
+        "Segmentation.mask_embed.layers.0.weight",
+        "Segmentation.query_embed.weight",
+        "Segmentation.query_feat.weight",
+        "Segmentation.transformer_cross_attention_layers.0.multihead_attn.in_proj_bias",
+        "Segmentation.transformer_cross_attention_layers.0.multihead_attn.in_proj_weight",
+        "Segmentation.transformer_cross_attention_layers.0.multihead_attn.out_proj.bias",
+        "Segmentation.transformer_cross_attention_layers.0.multihead_attn.out_proj.weight",
+        "Segmentation.transformer_cross_attention_layers.0.norm.bias",
+        "Segmentation.transformer_cross_attention_layers.0.norm.weight",
+        "Segmentation.transformer_ffn_layers.0.linear1.bias",
+        "Segmentation.transformer_ffn_layers.0.linear1.weight",
+        "Segmentation.transformer_ffn_layers.0.linear2.bias",
+        "Segmentation.transformer_ffn_layers.0.linear2.weight",
+        "Segmentation.transformer_ffn_layers.0.norm.bias",
+        "Segmentation.transformer_ffn_layers.0.norm.weight",
+        "Segmentation.transformer_self_attention_layers.0.norm.bias",
+        "Segmentation.transformer_self_attention_layers.0.norm.weight",
+        "Segmentation.transformer_self_attention_layers.0.self_attn.in_proj_bias",
+        "Segmentation.transformer_self_attention_layers.0.self_attn.in_proj_weight",
+        "Segmentation.transformer_self_attention_layers.0.self_attn.out_proj.bias",
+        "Segmentation.transformer_self_attention_layers.0.self_attn.out_proj.weight",
+        "TruthGeneration.cond_token.0.bias",
+        "TruthGeneration.cond_token.0.weight",
+        "TruthGeneration.cond_token.2.bias",
+        "TruthGeneration.cond_token.2.weight",
+        "TruthGeneration.gen_transformer_blocks.0.attn.in_proj_bias",
+        "TruthGeneration.gen_transformer_blocks.0.attn.in_proj_weight",
+        "TruthGeneration.gen_transformer_blocks.0.attn.out_proj.bias",
+        "TruthGeneration.gen_transformer_blocks.0.attn.out_proj.weight",
+        "TruthGeneration.gen_transformer_blocks.0.layer_scale1.gamma",
+        "TruthGeneration.gen_transformer_blocks.0.layer_scale2.gamma",
+        "TruthGeneration.gen_transformer_blocks.0.mlp.0.bias",
+        "TruthGeneration.gen_transformer_blocks.0.mlp.0.weight",
+        "TruthGeneration.gen_transformer_blocks.0.mlp.2.bias",
+        "TruthGeneration.gen_transformer_blocks.0.mlp.2.weight",
+        "TruthGeneration.gen_transformer_blocks.0.norm1.bias",
+        "TruthGeneration.gen_transformer_blocks.0.norm1.weight",
+        "TruthGeneration.gen_transformer_blocks.0.norm3.bias",
+        "TruthGeneration.gen_transformer_blocks.0.norm3.weight",
+        "TruthGeneration.generator.bias",
+        "TruthGeneration.generator.weight",
+        "TruthGeneration.label_dense.weight",
+        "TruthGeneration.num_point_cloud_embedding.dense1.weight",
+        "TruthGeneration.num_point_cloud_embedding.dense2.weight",
+        "TruthGeneration.position_encoder.position_embedding.weight",
+        "TruthGeneration.time_embedding.dense1.weight",
+        "TruthGeneration.time_embedding.dense2.weight",
         "global_normalizer.mean",
         "global_normalizer.norm_mask",
         "global_normalizer.std",
