@@ -125,6 +125,15 @@ options:
           ema_decay:
           - 0.999
           - 0.95
+    Performance:
+      enabled: true
+      log_every_n_steps: 3
+      rank_zero_progress: true
+      progress_every_n_steps: 3
+      progress_every_n_seconds: 0
+      tensor_debug_scans: false
+      gradient_diagnostics: false
+      rich_metrics: false
   Dataset:
     dataset_limit: 1.0
     normalization_file: ${EVENET_CI_DATA_DIR}/normalization.pt
